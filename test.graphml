@@ -1,0 +1,2506 @@
+<?xml version="1.0" encoding="UTF-8"?><graphml xmlns="http://graphml.graphdrawing.org/xmlns" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<key id="edge_weight_key" for="edge" attr.name="weight" attr.type="double">
+<default>1.0</default>
+</key>
+<key id="key0" for="node" attr.name="color" attr.type="string"/>
+<key id="key1" for="all" attr.name="name" attr.type="string"/>
+<graph edgedefault="undirected">
+<node id="0">
+<data key="key0">black</data>
+<data key="key1">node-0</data>
+</node>
+<node id="1">
+<data key="key0">black</data>
+<data key="key1">node-1</data>
+</node>
+<node id="2">
+<data key="key0">black</data>
+<data key="key1">node-2</data>
+</node>
+<node id="3">
+<data key="key0">black</data>
+<data key="key1">node-3</data>
+</node>
+<node id="4">
+<data key="key0">white</data>
+<data key="key1">node-4</data>
+</node>
+<node id="5">
+<data key="key0">white</data>
+<data key="key1">node-5</data>
+</node>
+<node id="6">
+<data key="key0">black</data>
+<data key="key1">node-6</data>
+</node>
+<node id="7">
+<data key="key0">black</data>
+<data key="key1">node-7</data>
+</node>
+<node id="8">
+<data key="key0">white</data>
+<data key="key1">node-8</data>
+</node>
+<node id="9">
+<data key="key0">black</data>
+<data key="key1">node-9</data>
+</node>
+<node id="10">
+<data key="key0">white</data>
+<data key="key1">node-10</data>
+</node>
+<node id="11">
+<data key="key0">black</data>
+<data key="key1">node-11</data>
+</node>
+<node id="12">
+<data key="key0">black</data>
+<data key="key1">node-12</data>
+</node>
+<node id="13">
+<data key="key0">white</data>
+<data key="key1">node-13</data>
+</node>
+<node id="14">
+<data key="key0">black</data>
+<data key="key1">node-14</data>
+</node>
+<node id="15">
+<data key="key0">white</data>
+<data key="key1">node-15</data>
+</node>
+<node id="16">
+<data key="key0">black</data>
+<data key="key1">node-16</data>
+</node>
+<node id="17">
+<data key="key0">black</data>
+<data key="key1">node-17</data>
+</node>
+<node id="18">
+<data key="key0">white</data>
+<data key="key1">node-18</data>
+</node>
+<node id="19">
+<data key="key0">black</data>
+<data key="key1">node-19</data>
+</node>
+<node id="20">
+<data key="key0">white</data>
+<data key="key1">node-20</data>
+</node>
+<node id="21">
+<data key="key0">white</data>
+<data key="key1">node-21</data>
+</node>
+<node id="22">
+<data key="key0">black</data>
+<data key="key1">node-22</data>
+</node>
+<node id="23">
+<data key="key0">white</data>
+<data key="key1">node-23</data>
+</node>
+<node id="24">
+<data key="key0">black</data>
+<data key="key1">node-24</data>
+</node>
+<node id="25">
+<data key="key0">black</data>
+<data key="key1">node-25</data>
+</node>
+<node id="26">
+<data key="key0">black</data>
+<data key="key1">node-26</data>
+</node>
+<node id="27">
+<data key="key0">white</data>
+<data key="key1">node-27</data>
+</node>
+<node id="28">
+<data key="key0">white</data>
+<data key="key1">node-28</data>
+</node>
+<node id="29">
+<data key="key0">white</data>
+<data key="key1">node-29</data>
+</node>
+<node id="30">
+<data key="key0">black</data>
+<data key="key1">node-30</data>
+</node>
+<node id="31">
+<data key="key0">white</data>
+<data key="key1">node-31</data>
+</node>
+<node id="32">
+<data key="key0">black</data>
+<data key="key1">node-32</data>
+</node>
+<node id="33">
+<data key="key0">white</data>
+<data key="key1">node-33</data>
+</node>
+<node id="34">
+<data key="key0">black</data>
+<data key="key1">node-34</data>
+</node>
+<node id="35">
+<data key="key0">white</data>
+<data key="key1">node-35</data>
+</node>
+<node id="36">
+<data key="key0">black</data>
+<data key="key1">node-36</data>
+</node>
+<node id="37">
+<data key="key0">black</data>
+<data key="key1">node-37</data>
+</node>
+<node id="38">
+<data key="key0">white</data>
+<data key="key1">node-38</data>
+</node>
+<node id="39">
+<data key="key0">white</data>
+<data key="key1">node-39</data>
+</node>
+<node id="40">
+<data key="key0">white</data>
+<data key="key1">node-40</data>
+</node>
+<node id="41">
+<data key="key0">white</data>
+<data key="key1">node-41</data>
+</node>
+<node id="42">
+<data key="key0">black</data>
+<data key="key1">node-42</data>
+</node>
+<node id="43">
+<data key="key0">black</data>
+<data key="key1">node-43</data>
+</node>
+<node id="44">
+<data key="key0">black</data>
+<data key="key1">node-44</data>
+</node>
+<node id="45">
+<data key="key0">black</data>
+<data key="key1">node-45</data>
+</node>
+<node id="46">
+<data key="key0">black</data>
+<data key="key1">node-46</data>
+</node>
+<node id="47">
+<data key="key0">black</data>
+<data key="key1">node-47</data>
+</node>
+<node id="48">
+<data key="key0">black</data>
+<data key="key1">node-48</data>
+</node>
+<node id="49">
+<data key="key0">black</data>
+<data key="key1">node-49</data>
+</node>
+<node id="50">
+<data key="key0">white</data>
+<data key="key1">node-50</data>
+</node>
+<node id="51">
+<data key="key0">white</data>
+<data key="key1">node-51</data>
+</node>
+<node id="52">
+<data key="key0">white</data>
+<data key="key1">node-52</data>
+</node>
+<node id="53">
+<data key="key0">white</data>
+<data key="key1">node-53</data>
+</node>
+<node id="54">
+<data key="key0">white</data>
+<data key="key1">node-54</data>
+</node>
+<node id="55">
+<data key="key0">black</data>
+<data key="key1">node-55</data>
+</node>
+<node id="56">
+<data key="key0">white</data>
+<data key="key1">node-56</data>
+</node>
+<node id="57">
+<data key="key0">white</data>
+<data key="key1">node-57</data>
+</node>
+<node id="58">
+<data key="key0">white</data>
+<data key="key1">node-58</data>
+</node>
+<node id="59">
+<data key="key0">black</data>
+<data key="key1">node-59</data>
+</node>
+<node id="60">
+<data key="key0">white</data>
+<data key="key1">node-60</data>
+</node>
+<node id="61">
+<data key="key0">white</data>
+<data key="key1">node-61</data>
+</node>
+<node id="62">
+<data key="key0">black</data>
+<data key="key1">node-62</data>
+</node>
+<node id="63">
+<data key="key0">black</data>
+<data key="key1">node-63</data>
+</node>
+<node id="64">
+<data key="key0">white</data>
+<data key="key1">node-64</data>
+</node>
+<node id="65">
+<data key="key0">black</data>
+<data key="key1">node-65</data>
+</node>
+<node id="66">
+<data key="key0">black</data>
+<data key="key1">node-66</data>
+</node>
+<node id="67">
+<data key="key0">white</data>
+<data key="key1">node-67</data>
+</node>
+<node id="68">
+<data key="key0">black</data>
+<data key="key1">node-68</data>
+</node>
+<node id="69">
+<data key="key0">white</data>
+<data key="key1">node-69</data>
+</node>
+<node id="70">
+<data key="key0">black</data>
+<data key="key1">node-70</data>
+</node>
+<node id="71">
+<data key="key0">black</data>
+<data key="key1">node-71</data>
+</node>
+<node id="72">
+<data key="key0">black</data>
+<data key="key1">node-72</data>
+</node>
+<node id="73">
+<data key="key0">white</data>
+<data key="key1">node-73</data>
+</node>
+<node id="74">
+<data key="key0">black</data>
+<data key="key1">node-74</data>
+</node>
+<node id="75">
+<data key="key0">black</data>
+<data key="key1">node-75</data>
+</node>
+<node id="76">
+<data key="key0">black</data>
+<data key="key1">node-76</data>
+</node>
+<node id="77">
+<data key="key0">white</data>
+<data key="key1">node-77</data>
+</node>
+<node id="78">
+<data key="key0">white</data>
+<data key="key1">node-78</data>
+</node>
+<node id="79">
+<data key="key0">black</data>
+<data key="key1">node-79</data>
+</node>
+<node id="80">
+<data key="key0">white</data>
+<data key="key1">node-80</data>
+</node>
+<node id="81">
+<data key="key0">black</data>
+<data key="key1">node-81</data>
+</node>
+<node id="82">
+<data key="key0">white</data>
+<data key="key1">node-82</data>
+</node>
+<node id="83">
+<data key="key0">black</data>
+<data key="key1">node-83</data>
+</node>
+<node id="84">
+<data key="key0">white</data>
+<data key="key1">node-84</data>
+</node>
+<node id="85">
+<data key="key0">black</data>
+<data key="key1">node-85</data>
+</node>
+<node id="86">
+<data key="key0">white</data>
+<data key="key1">node-86</data>
+</node>
+<node id="87">
+<data key="key0">black</data>
+<data key="key1">node-87</data>
+</node>
+<node id="88">
+<data key="key0">black</data>
+<data key="key1">node-88</data>
+</node>
+<node id="89">
+<data key="key0">black</data>
+<data key="key1">node-89</data>
+</node>
+<node id="90">
+<data key="key0">black</data>
+<data key="key1">node-90</data>
+</node>
+<node id="91">
+<data key="key0">black</data>
+<data key="key1">node-91</data>
+</node>
+<node id="92">
+<data key="key0">white</data>
+<data key="key1">node-92</data>
+</node>
+<node id="93">
+<data key="key0">black</data>
+<data key="key1">node-93</data>
+</node>
+<node id="94">
+<data key="key0">white</data>
+<data key="key1">node-94</data>
+</node>
+<node id="95">
+<data key="key0">white</data>
+<data key="key1">node-95</data>
+</node>
+<node id="96">
+<data key="key0">black</data>
+<data key="key1">node-96</data>
+</node>
+<node id="97">
+<data key="key0">black</data>
+<data key="key1">node-97</data>
+</node>
+<node id="98">
+<data key="key0">white</data>
+<data key="key1">node-98</data>
+</node>
+<node id="99">
+<data key="key0">white</data>
+<data key="key1">node-99</data>
+</node>
+<node id="100">
+<data key="key0">black</data>
+<data key="key1">node-100</data>
+</node>
+<node id="101">
+<data key="key0">white</data>
+<data key="key1">node-101</data>
+</node>
+<node id="102">
+<data key="key0">black</data>
+<data key="key1">node-102</data>
+</node>
+<node id="103">
+<data key="key0">white</data>
+<data key="key1">node-103</data>
+</node>
+<node id="104">
+<data key="key0">white</data>
+<data key="key1">node-104</data>
+</node>
+<node id="105">
+<data key="key0">black</data>
+<data key="key1">node-105</data>
+</node>
+<node id="106">
+<data key="key0">black</data>
+<data key="key1">node-106</data>
+</node>
+<node id="107">
+<data key="key0">white</data>
+<data key="key1">node-107</data>
+</node>
+<node id="108">
+<data key="key0">black</data>
+<data key="key1">node-108</data>
+</node>
+<node id="109">
+<data key="key0">white</data>
+<data key="key1">node-109</data>
+</node>
+<node id="110">
+<data key="key0">black</data>
+<data key="key1">node-110</data>
+</node>
+<node id="111">
+<data key="key0">black</data>
+<data key="key1">node-111</data>
+</node>
+<node id="112">
+<data key="key0">white</data>
+<data key="key1">node-112</data>
+</node>
+<node id="113">
+<data key="key0">black</data>
+<data key="key1">node-113</data>
+</node>
+<node id="114">
+<data key="key0">white</data>
+<data key="key1">node-114</data>
+</node>
+<node id="115">
+<data key="key0">black</data>
+<data key="key1">node-115</data>
+</node>
+<node id="116">
+<data key="key0">black</data>
+<data key="key1">node-116</data>
+</node>
+<node id="117">
+<data key="key0">black</data>
+<data key="key1">node-117</data>
+</node>
+<node id="118">
+<data key="key0">white</data>
+<data key="key1">node-118</data>
+</node>
+<node id="119">
+<data key="key0">black</data>
+<data key="key1">node-119</data>
+</node>
+<node id="120">
+<data key="key0">black</data>
+<data key="key1">node-120</data>
+</node>
+<node id="121">
+<data key="key0">black</data>
+<data key="key1">node-121</data>
+</node>
+<node id="122">
+<data key="key0">black</data>
+<data key="key1">node-122</data>
+</node>
+<node id="123">
+<data key="key0">white</data>
+<data key="key1">node-123</data>
+</node>
+<node id="124">
+<data key="key0">white</data>
+<data key="key1">node-124</data>
+</node>
+<node id="125">
+<data key="key0">white</data>
+<data key="key1">node-125</data>
+</node>
+<node id="126">
+<data key="key0">white</data>
+<data key="key1">node-126</data>
+</node>
+<node id="127">
+<data key="key0">white</data>
+<data key="key1">node-127</data>
+</node>
+<node id="128">
+<data key="key0">black</data>
+<data key="key1">node-128</data>
+</node>
+<node id="129">
+<data key="key0">black</data>
+<data key="key1">node-129</data>
+</node>
+<node id="130">
+<data key="key0">black</data>
+<data key="key1">node-130</data>
+</node>
+<node id="131">
+<data key="key0">black</data>
+<data key="key1">node-131</data>
+</node>
+<node id="132">
+<data key="key0">white</data>
+<data key="key1">node-132</data>
+</node>
+<node id="133">
+<data key="key0">black</data>
+<data key="key1">node-133</data>
+</node>
+<node id="134">
+<data key="key0">black</data>
+<data key="key1">node-134</data>
+</node>
+<node id="135">
+<data key="key0">black</data>
+<data key="key1">node-135</data>
+</node>
+<node id="136">
+<data key="key0">white</data>
+<data key="key1">node-136</data>
+</node>
+<node id="137">
+<data key="key0">white</data>
+<data key="key1">node-137</data>
+</node>
+<node id="138">
+<data key="key0">black</data>
+<data key="key1">node-138</data>
+</node>
+<node id="139">
+<data key="key0">white</data>
+<data key="key1">node-139</data>
+</node>
+<node id="140">
+<data key="key0">white</data>
+<data key="key1">node-140</data>
+</node>
+<node id="141">
+<data key="key0">black</data>
+<data key="key1">node-141</data>
+</node>
+<node id="142">
+<data key="key0">black</data>
+<data key="key1">node-142</data>
+</node>
+<node id="143">
+<data key="key0">black</data>
+<data key="key1">node-143</data>
+</node>
+<node id="144">
+<data key="key0">white</data>
+<data key="key1">node-144</data>
+</node>
+<node id="145">
+<data key="key0">black</data>
+<data key="key1">node-145</data>
+</node>
+<node id="146">
+<data key="key0">black</data>
+<data key="key1">node-146</data>
+</node>
+<node id="147">
+<data key="key0">white</data>
+<data key="key1">node-147</data>
+</node>
+<node id="148">
+<data key="key0">white</data>
+<data key="key1">node-148</data>
+</node>
+<node id="149">
+<data key="key0">black</data>
+<data key="key1">node-149</data>
+</node>
+<node id="150">
+<data key="key0">black</data>
+<data key="key1">node-150</data>
+</node>
+<node id="151">
+<data key="key0">black</data>
+<data key="key1">node-151</data>
+</node>
+<node id="152">
+<data key="key0">black</data>
+<data key="key1">node-152</data>
+</node>
+<node id="153">
+<data key="key0">black</data>
+<data key="key1">node-153</data>
+</node>
+<node id="154">
+<data key="key0">black</data>
+<data key="key1">node-154</data>
+</node>
+<node id="155">
+<data key="key0">white</data>
+<data key="key1">node-155</data>
+</node>
+<node id="156">
+<data key="key0">black</data>
+<data key="key1">node-156</data>
+</node>
+<node id="157">
+<data key="key0">black</data>
+<data key="key1">node-157</data>
+</node>
+<node id="158">
+<data key="key0">black</data>
+<data key="key1">node-158</data>
+</node>
+<node id="159">
+<data key="key0">black</data>
+<data key="key1">node-159</data>
+</node>
+<node id="160">
+<data key="key0">black</data>
+<data key="key1">node-160</data>
+</node>
+<node id="161">
+<data key="key0">white</data>
+<data key="key1">node-161</data>
+</node>
+<node id="162">
+<data key="key0">white</data>
+<data key="key1">node-162</data>
+</node>
+<node id="163">
+<data key="key0">white</data>
+<data key="key1">node-163</data>
+</node>
+<node id="164">
+<data key="key0">black</data>
+<data key="key1">node-164</data>
+</node>
+<node id="165">
+<data key="key0">white</data>
+<data key="key1">node-165</data>
+</node>
+<node id="166">
+<data key="key0">black</data>
+<data key="key1">node-166</data>
+</node>
+<node id="167">
+<data key="key0">black</data>
+<data key="key1">node-167</data>
+</node>
+<node id="168">
+<data key="key0">white</data>
+<data key="key1">node-168</data>
+</node>
+<node id="169">
+<data key="key0">black</data>
+<data key="key1">node-169</data>
+</node>
+<node id="170">
+<data key="key0">black</data>
+<data key="key1">node-170</data>
+</node>
+<node id="171">
+<data key="key0">white</data>
+<data key="key1">node-171</data>
+</node>
+<node id="172">
+<data key="key0">black</data>
+<data key="key1">node-172</data>
+</node>
+<node id="173">
+<data key="key0">black</data>
+<data key="key1">node-173</data>
+</node>
+<node id="174">
+<data key="key0">white</data>
+<data key="key1">node-174</data>
+</node>
+<node id="175">
+<data key="key0">black</data>
+<data key="key1">node-175</data>
+</node>
+<node id="176">
+<data key="key0">black</data>
+<data key="key1">node-176</data>
+</node>
+<node id="177">
+<data key="key0">white</data>
+<data key="key1">node-177</data>
+</node>
+<node id="178">
+<data key="key0">black</data>
+<data key="key1">node-178</data>
+</node>
+<node id="179">
+<data key="key0">black</data>
+<data key="key1">node-179</data>
+</node>
+<node id="180">
+<data key="key0">white</data>
+<data key="key1">node-180</data>
+</node>
+<node id="181">
+<data key="key0">white</data>
+<data key="key1">node-181</data>
+</node>
+<node id="182">
+<data key="key0">black</data>
+<data key="key1">node-182</data>
+</node>
+<node id="183">
+<data key="key0">white</data>
+<data key="key1">node-183</data>
+</node>
+<node id="184">
+<data key="key0">black</data>
+<data key="key1">node-184</data>
+</node>
+<node id="185">
+<data key="key0">black</data>
+<data key="key1">node-185</data>
+</node>
+<node id="186">
+<data key="key0">black</data>
+<data key="key1">node-186</data>
+</node>
+<node id="187">
+<data key="key0">black</data>
+<data key="key1">node-187</data>
+</node>
+<node id="188">
+<data key="key0">white</data>
+<data key="key1">node-188</data>
+</node>
+<node id="189">
+<data key="key0">white</data>
+<data key="key1">node-189</data>
+</node>
+<node id="190">
+<data key="key0">white</data>
+<data key="key1">node-190</data>
+</node>
+<node id="191">
+<data key="key0">black</data>
+<data key="key1">node-191</data>
+</node>
+<node id="192">
+<data key="key0">black</data>
+<data key="key1">node-192</data>
+</node>
+<node id="193">
+<data key="key0">black</data>
+<data key="key1">node-193</data>
+</node>
+<node id="194">
+<data key="key0">white</data>
+<data key="key1">node-194</data>
+</node>
+<node id="195">
+<data key="key0">white</data>
+<data key="key1">node-195</data>
+</node>
+<node id="196">
+<data key="key0">white</data>
+<data key="key1">node-196</data>
+</node>
+<node id="197">
+<data key="key0">black</data>
+<data key="key1">node-197</data>
+</node>
+<node id="198">
+<data key="key0">white</data>
+<data key="key1">node-198</data>
+</node>
+<node id="199">
+<data key="key0">black</data>
+<data key="key1">node-199</data>
+</node>
+<edge id="1" source="0" target="1">
+<data key="edge_weight_key">43.0</data>
+<data key="key1">((0,black) : (1,black))</data>
+</edge>
+<edge id="2" source="0" target="2">
+<data key="edge_weight_key">92.0</data>
+<data key="key1">((0,black) : (2,black))</data>
+</edge>
+<edge id="3" source="0" target="3">
+<data key="edge_weight_key">18.0</data>
+<data key="key1">((0,black) : (3,black))</data>
+</edge>
+<edge id="4" source="0" target="4">
+<data key="edge_weight_key">39.0</data>
+<data key="key1">((0,black) : (4,white))</data>
+</edge>
+<edge id="5" source="0" target="5">
+<data key="edge_weight_key">79.0</data>
+<data key="key1">((0,black) : (5,white))</data>
+</edge>
+<edge id="6" source="0" target="6">
+<data key="edge_weight_key">80.0</data>
+<data key="key1">((0,black) : (6,black))</data>
+</edge>
+<edge id="7" source="0" target="7">
+<data key="edge_weight_key">70.0</data>
+<data key="key1">((0,black) : (7,black))</data>
+</edge>
+<edge id="8" source="0" target="8">
+<data key="edge_weight_key">5.0</data>
+<data key="key1">((0,black) : (8,white))</data>
+</edge>
+<edge id="9" source="0" target="9">
+<data key="edge_weight_key">87.0</data>
+<data key="key1">((0,black) : (9,black))</data>
+</edge>
+<edge id="10" source="1" target="2">
+<data key="edge_weight_key">32.0</data>
+<data key="key1">((1,black) : (2,black))</data>
+</edge>
+<edge id="11" source="1" target="3">
+<data key="edge_weight_key">64.0</data>
+<data key="key1">((1,black) : (3,black))</data>
+</edge>
+<edge id="12" source="1" target="4">
+<data key="edge_weight_key">54.0</data>
+<data key="key1">((1,black) : (4,white))</data>
+</edge>
+<edge id="13" source="1" target="5">
+<data key="edge_weight_key">16.0</data>
+<data key="key1">((1,black) : (5,white))</data>
+</edge>
+<edge id="14" source="1" target="6">
+<data key="edge_weight_key">41.0</data>
+<data key="key1">((1,black) : (6,black))</data>
+</edge>
+<edge id="15" source="1" target="7">
+<data key="edge_weight_key">3.0</data>
+<data key="key1">((1,black) : (7,black))</data>
+</edge>
+<edge id="16" source="1" target="8">
+<data key="edge_weight_key">15.0</data>
+<data key="key1">((1,black) : (8,white))</data>
+</edge>
+<edge id="17" source="1" target="9">
+<data key="edge_weight_key">83.0</data>
+<data key="key1">((1,black) : (9,black))</data>
+</edge>
+<edge id="18" source="2" target="3">
+<data key="edge_weight_key">80.0</data>
+<data key="key1">((2,black) : (3,black))</data>
+</edge>
+<edge id="19" source="2" target="4">
+<data key="edge_weight_key">41.0</data>
+<data key="key1">((2,black) : (4,white))</data>
+</edge>
+<edge id="20" source="2" target="5">
+<data key="edge_weight_key">66.0</data>
+<data key="key1">((2,black) : (5,white))</data>
+</edge>
+<edge id="21" source="2" target="6">
+<data key="edge_weight_key">92.0</data>
+<data key="key1">((2,black) : (6,black))</data>
+</edge>
+<edge id="22" source="2" target="7">
+<data key="edge_weight_key">17.0</data>
+<data key="key1">((2,black) : (7,black))</data>
+</edge>
+<edge id="23" source="2" target="8">
+<data key="edge_weight_key">28.0</data>
+<data key="key1">((2,black) : (8,white))</data>
+</edge>
+<edge id="24" source="2" target="9">
+<data key="edge_weight_key">18.0</data>
+<data key="key1">((2,black) : (9,black))</data>
+</edge>
+<edge id="25" source="3" target="4">
+<data key="edge_weight_key">26.0</data>
+<data key="key1">((3,black) : (4,white))</data>
+</edge>
+<edge id="26" source="3" target="5">
+<data key="edge_weight_key">27.0</data>
+<data key="key1">((3,black) : (5,white))</data>
+</edge>
+<edge id="27" source="3" target="6">
+<data key="edge_weight_key">46.0</data>
+<data key="key1">((3,black) : (6,black))</data>
+</edge>
+<edge id="28" source="3" target="7">
+<data key="edge_weight_key">29.0</data>
+<data key="key1">((3,black) : (7,black))</data>
+</edge>
+<edge id="29" source="3" target="8">
+<data key="edge_weight_key">44.0</data>
+<data key="key1">((3,black) : (8,white))</data>
+</edge>
+<edge id="30" source="3" target="9">
+<data key="edge_weight_key">72.0</data>
+<data key="key1">((3,black) : (9,black))</data>
+</edge>
+<edge id="31" source="4" target="5">
+<data key="edge_weight_key">60.0</data>
+<data key="key1">((4,white) : (5,white))</data>
+</edge>
+<edge id="32" source="4" target="6">
+<data key="edge_weight_key">78.0</data>
+<data key="key1">((4,white) : (6,black))</data>
+</edge>
+<edge id="33" source="4" target="7">
+<data key="edge_weight_key">14.0</data>
+<data key="key1">((4,white) : (7,black))</data>
+</edge>
+<edge id="34" source="4" target="8">
+<data key="edge_weight_key">69.0</data>
+<data key="key1">((4,white) : (8,white))</data>
+</edge>
+<edge id="35" source="4" target="9">
+<data key="edge_weight_key">39.0</data>
+<data key="key1">((4,white) : (9,black))</data>
+</edge>
+<edge id="36" source="5" target="6">
+<data key="edge_weight_key">35.0</data>
+<data key="key1">((5,white) : (6,black))</data>
+</edge>
+<edge id="37" source="5" target="7">
+<data key="edge_weight_key">54.0</data>
+<data key="key1">((5,white) : (7,black))</data>
+</edge>
+<edge id="38" source="5" target="8">
+<data key="edge_weight_key">57.0</data>
+<data key="key1">((5,white) : (8,white))</data>
+</edge>
+<edge id="39" source="5" target="9">
+<data key="edge_weight_key">56.0</data>
+<data key="key1">((5,white) : (9,black))</data>
+</edge>
+<edge id="40" source="6" target="7">
+<data key="edge_weight_key">24.0</data>
+<data key="key1">((6,black) : (7,black))</data>
+</edge>
+<edge id="41" source="6" target="8">
+<data key="edge_weight_key">30.0</data>
+<data key="key1">((6,black) : (8,white))</data>
+</edge>
+<edge id="42" source="6" target="9">
+<data key="edge_weight_key">35.0</data>
+<data key="key1">((6,black) : (9,black))</data>
+</edge>
+<edge id="43" source="7" target="8">
+<data key="edge_weight_key">86.0</data>
+<data key="key1">((7,black) : (8,white))</data>
+</edge>
+<edge id="44" source="7" target="9">
+<data key="edge_weight_key">24.0</data>
+<data key="key1">((7,black) : (9,black))</data>
+</edge>
+<edge id="45" source="8" target="9">
+<data key="edge_weight_key">18.0</data>
+<data key="key1">((8,white) : (9,black))</data>
+</edge>
+<edge id="46" source="10" target="0">
+<data key="edge_weight_key">22.0</data>
+<data key="key1">((10,white) : (0,black))</data>
+</edge>
+<edge id="47" source="10" target="2">
+<data key="edge_weight_key">81.0</data>
+<data key="key1">((10,white) : (2,black))</data>
+</edge>
+<edge id="48" source="11" target="9">
+<data key="edge_weight_key">12.0</data>
+<data key="key1">((11,black) : (9,black))</data>
+</edge>
+<edge id="49" source="11" target="10">
+<data key="edge_weight_key">14.0</data>
+<data key="key1">((11,black) : (10,white))</data>
+</edge>
+<edge id="50" source="12" target="7">
+<data key="edge_weight_key">40.0</data>
+<data key="key1">((12,black) : (7,black))</data>
+</edge>
+<edge id="51" source="12" target="3">
+<data key="edge_weight_key">54.0</data>
+<data key="key1">((12,black) : (3,black))</data>
+</edge>
+<edge id="52" source="13" target="3">
+<data key="edge_weight_key">53.0</data>
+<data key="key1">((13,white) : (3,black))</data>
+</edge>
+<edge id="53" source="13" target="6">
+<data key="edge_weight_key">14.0</data>
+<data key="key1">((13,white) : (6,black))</data>
+</edge>
+<edge id="54" source="14" target="9">
+<data key="edge_weight_key">87.0</data>
+<data key="key1">((14,black) : (9,black))</data>
+</edge>
+<edge id="55" source="14" target="4">
+<data key="edge_weight_key">62.0</data>
+<data key="key1">((14,black) : (4,white))</data>
+</edge>
+<edge id="56" source="15" target="10">
+<data key="edge_weight_key">73.0</data>
+<data key="key1">((15,white) : (10,white))</data>
+</edge>
+<edge id="57" source="15" target="6">
+<data key="edge_weight_key">43.0</data>
+<data key="key1">((15,white) : (6,black))</data>
+</edge>
+<edge id="58" source="16" target="0">
+<data key="edge_weight_key">69.0</data>
+<data key="key1">((16,black) : (0,black))</data>
+</edge>
+<edge id="59" source="16" target="5">
+<data key="edge_weight_key">77.0</data>
+<data key="key1">((16,black) : (5,white))</data>
+</edge>
+<edge id="60" source="17" target="9">
+<data key="edge_weight_key">95.0</data>
+<data key="key1">((17,black) : (9,black))</data>
+</edge>
+<edge id="61" source="17" target="8">
+<data key="edge_weight_key">36.0</data>
+<data key="key1">((17,black) : (8,white))</data>
+</edge>
+<edge id="62" source="18" target="11">
+<data key="edge_weight_key">24.0</data>
+<data key="key1">((18,white) : (11,black))</data>
+</edge>
+<edge id="63" source="18" target="2">
+<data key="edge_weight_key">97.0</data>
+<data key="key1">((18,white) : (2,black))</data>
+</edge>
+<edge id="64" source="19" target="2">
+<data key="edge_weight_key">24.0</data>
+<data key="key1">((19,black) : (2,black))</data>
+</edge>
+<edge id="65" source="19" target="9">
+<data key="edge_weight_key">37.0</data>
+<data key="key1">((19,black) : (9,black))</data>
+</edge>
+<edge id="66" source="20" target="2">
+<data key="edge_weight_key">29.0</data>
+<data key="key1">((20,white) : (2,black))</data>
+</edge>
+<edge id="67" source="20" target="6">
+<data key="edge_weight_key">72.0</data>
+<data key="key1">((20,white) : (6,black))</data>
+</edge>
+<edge id="68" source="21" target="2">
+<data key="edge_weight_key">10.0</data>
+<data key="key1">((21,white) : (2,black))</data>
+</edge>
+<edge id="69" source="21" target="3">
+<data key="edge_weight_key">52.0</data>
+<data key="key1">((21,white) : (3,black))</data>
+</edge>
+<edge id="70" source="22" target="9">
+<data key="edge_weight_key">5.0</data>
+<data key="key1">((22,black) : (9,black))</data>
+</edge>
+<edge id="71" source="22" target="6">
+<data key="edge_weight_key">79.0</data>
+<data key="key1">((22,black) : (6,black))</data>
+</edge>
+<edge id="72" source="23" target="13">
+<data key="edge_weight_key">87.0</data>
+<data key="key1">((23,white) : (13,white))</data>
+</edge>
+<edge id="73" source="23" target="3">
+<data key="edge_weight_key">73.0</data>
+<data key="key1">((23,white) : (3,black))</data>
+</edge>
+<edge id="74" source="24" target="19">
+<data key="edge_weight_key">73.0</data>
+<data key="key1">((24,black) : (19,black))</data>
+</edge>
+<edge id="75" source="24" target="2">
+<data key="edge_weight_key">51.0</data>
+<data key="key1">((24,black) : (2,black))</data>
+</edge>
+<edge id="76" source="25" target="2">
+<data key="edge_weight_key">15.0</data>
+<data key="key1">((25,black) : (2,black))</data>
+</edge>
+<edge id="77" source="25" target="11">
+<data key="edge_weight_key">96.0</data>
+<data key="key1">((25,black) : (11,black))</data>
+</edge>
+<edge id="78" source="26" target="25">
+<data key="edge_weight_key">44.0</data>
+<data key="key1">((26,black) : (25,black))</data>
+</edge>
+<edge id="79" source="26" target="4">
+<data key="edge_weight_key">54.0</data>
+<data key="key1">((26,black) : (4,white))</data>
+</edge>
+<edge id="80" source="27" target="4">
+<data key="edge_weight_key">88.0</data>
+<data key="key1">((27,white) : (4,white))</data>
+</edge>
+<edge id="81" source="27" target="8">
+<data key="edge_weight_key">19.0</data>
+<data key="key1">((27,white) : (8,white))</data>
+</edge>
+<edge id="82" source="28" target="26">
+<data key="edge_weight_key">9.0</data>
+<data key="key1">((28,white) : (26,black))</data>
+</edge>
+<edge id="83" source="28" target="4">
+<data key="edge_weight_key">23.0</data>
+<data key="key1">((28,white) : (4,white))</data>
+</edge>
+<edge id="84" source="29" target="0">
+<data key="edge_weight_key">98.0</data>
+<data key="key1">((29,white) : (0,black))</data>
+</edge>
+<edge id="85" source="29" target="22">
+<data key="edge_weight_key">13.0</data>
+<data key="key1">((29,white) : (22,black))</data>
+</edge>
+<edge id="86" source="30" target="8">
+<data key="edge_weight_key">75.0</data>
+<data key="key1">((30,black) : (8,white))</data>
+</edge>
+<edge id="87" source="30" target="28">
+<data key="edge_weight_key">32.0</data>
+<data key="key1">((30,black) : (28,white))</data>
+</edge>
+<edge id="88" source="31" target="22">
+<data key="edge_weight_key">66.0</data>
+<data key="key1">((31,white) : (22,black))</data>
+</edge>
+<edge id="89" source="31" target="4">
+<data key="edge_weight_key">39.0</data>
+<data key="key1">((31,white) : (4,white))</data>
+</edge>
+<edge id="90" source="32" target="31">
+<data key="edge_weight_key">20.0</data>
+<data key="key1">((32,black) : (31,white))</data>
+</edge>
+<edge id="91" source="32" target="26">
+<data key="edge_weight_key">46.0</data>
+<data key="key1">((32,black) : (26,black))</data>
+</edge>
+<edge id="92" source="33" target="8">
+<data key="edge_weight_key">97.0</data>
+<data key="key1">((33,white) : (8,white))</data>
+</edge>
+<edge id="93" source="33" target="4">
+<data key="edge_weight_key">6.0</data>
+<data key="key1">((33,white) : (4,white))</data>
+</edge>
+<edge id="94" source="34" target="9">
+<data key="edge_weight_key">93.0</data>
+<data key="key1">((34,black) : (9,black))</data>
+</edge>
+<edge id="95" source="34" target="2">
+<data key="edge_weight_key">7.0</data>
+<data key="key1">((34,black) : (2,black))</data>
+</edge>
+<edge id="96" source="35" target="2">
+<data key="edge_weight_key">6.0</data>
+<data key="key1">((35,white) : (2,black))</data>
+</edge>
+<edge id="97" source="35" target="11">
+<data key="edge_weight_key">2.0</data>
+<data key="key1">((35,white) : (11,black))</data>
+</edge>
+<edge id="98" source="36" target="26">
+<data key="edge_weight_key">56.0</data>
+<data key="key1">((36,black) : (26,black))</data>
+</edge>
+<edge id="99" source="36" target="5">
+<data key="edge_weight_key">3.0</data>
+<data key="key1">((36,black) : (5,white))</data>
+</edge>
+<edge id="100" source="37" target="27">
+<data key="edge_weight_key">2.0</data>
+<data key="key1">((37,black) : (27,white))</data>
+</edge>
+<edge id="101" source="37" target="9">
+<data key="edge_weight_key">37.0</data>
+<data key="key1">((37,black) : (9,black))</data>
+</edge>
+<edge id="102" source="38" target="9">
+<data key="edge_weight_key">41.0</data>
+<data key="key1">((38,white) : (9,black))</data>
+</edge>
+<edge id="103" source="38" target="2">
+<data key="edge_weight_key">96.0</data>
+<data key="key1">((38,white) : (2,black))</data>
+</edge>
+<edge id="104" source="39" target="9">
+<data key="edge_weight_key">3.0</data>
+<data key="key1">((39,white) : (9,black))</data>
+</edge>
+<edge id="105" source="39" target="6">
+<data key="edge_weight_key">59.0</data>
+<data key="key1">((39,white) : (6,black))</data>
+</edge>
+<edge id="106" source="40" target="10">
+<data key="edge_weight_key">95.0</data>
+<data key="key1">((40,white) : (10,white))</data>
+</edge>
+<edge id="107" source="40" target="27">
+<data key="edge_weight_key">45.0</data>
+<data key="key1">((40,white) : (27,white))</data>
+</edge>
+<edge id="108" source="41" target="1">
+<data key="edge_weight_key">83.0</data>
+<data key="key1">((41,white) : (1,black))</data>
+</edge>
+<edge id="109" source="41" target="4">
+<data key="edge_weight_key">35.0</data>
+<data key="key1">((41,white) : (4,white))</data>
+</edge>
+<edge id="110" source="42" target="6">
+<data key="edge_weight_key">3.0</data>
+<data key="key1">((42,black) : (6,black))</data>
+</edge>
+<edge id="111" source="42" target="8">
+<data key="edge_weight_key">77.0</data>
+<data key="key1">((42,black) : (8,white))</data>
+</edge>
+<edge id="112" source="43" target="41">
+<data key="edge_weight_key">84.0</data>
+<data key="key1">((43,black) : (41,white))</data>
+</edge>
+<edge id="113" source="43" target="22">
+<data key="edge_weight_key">32.0</data>
+<data key="key1">((43,black) : (22,black))</data>
+</edge>
+<edge id="114" source="44" target="39">
+<data key="edge_weight_key">98.0</data>
+<data key="key1">((44,black) : (39,white))</data>
+</edge>
+<edge id="115" source="44" target="7">
+<data key="edge_weight_key">78.0</data>
+<data key="key1">((44,black) : (7,black))</data>
+</edge>
+<edge id="116" source="45" target="6">
+<data key="edge_weight_key">65.0</data>
+<data key="key1">((45,black) : (6,black))</data>
+</edge>
+<edge id="117" source="45" target="3">
+<data key="edge_weight_key">74.0</data>
+<data key="key1">((45,black) : (3,black))</data>
+</edge>
+<edge id="118" source="46" target="4">
+<data key="edge_weight_key">96.0</data>
+<data key="key1">((46,black) : (4,white))</data>
+</edge>
+<edge id="119" source="46" target="34">
+<data key="edge_weight_key">25.0</data>
+<data key="key1">((46,black) : (34,black))</data>
+</edge>
+<edge id="120" source="47" target="20">
+<data key="edge_weight_key">10.0</data>
+<data key="key1">((47,black) : (20,white))</data>
+</edge>
+<edge id="121" source="47" target="7">
+<data key="edge_weight_key">28.0</data>
+<data key="key1">((47,black) : (7,black))</data>
+</edge>
+<edge id="122" source="48" target="7">
+<data key="edge_weight_key">25.0</data>
+<data key="key1">((48,black) : (7,black))</data>
+</edge>
+<edge id="123" source="48" target="9">
+<data key="edge_weight_key">58.0</data>
+<data key="key1">((48,black) : (9,black))</data>
+</edge>
+<edge id="124" source="49" target="6">
+<data key="edge_weight_key">57.0</data>
+<data key="key1">((49,black) : (6,black))</data>
+</edge>
+<edge id="125" source="49" target="26">
+<data key="edge_weight_key">42.0</data>
+<data key="key1">((49,black) : (26,black))</data>
+</edge>
+<edge id="126" source="50" target="7">
+<data key="edge_weight_key">13.0</data>
+<data key="key1">((50,white) : (7,black))</data>
+</edge>
+<edge id="127" source="50" target="15">
+<data key="edge_weight_key">37.0</data>
+<data key="key1">((50,white) : (15,white))</data>
+</edge>
+<edge id="128" source="51" target="1">
+<data key="edge_weight_key">47.0</data>
+<data key="key1">((51,white) : (1,black))</data>
+</edge>
+<edge id="129" source="51" target="34">
+<data key="edge_weight_key">19.0</data>
+<data key="key1">((51,white) : (34,black))</data>
+</edge>
+<edge id="130" source="52" target="6">
+<data key="edge_weight_key">41.0</data>
+<data key="key1">((52,white) : (6,black))</data>
+</edge>
+<edge id="131" source="52" target="39">
+<data key="edge_weight_key">58.0</data>
+<data key="key1">((52,white) : (39,white))</data>
+</edge>
+<edge id="132" source="53" target="6">
+<data key="edge_weight_key">25.0</data>
+<data key="key1">((53,white) : (6,black))</data>
+</edge>
+<edge id="133" source="53" target="11">
+<data key="edge_weight_key">18.0</data>
+<data key="key1">((53,white) : (11,black))</data>
+</edge>
+<edge id="134" source="54" target="6">
+<data key="edge_weight_key">84.0</data>
+<data key="key1">((54,white) : (6,black))</data>
+</edge>
+<edge id="135" source="54" target="3">
+<data key="edge_weight_key">34.0</data>
+<data key="key1">((54,white) : (3,black))</data>
+</edge>
+<edge id="136" source="55" target="2">
+<data key="edge_weight_key">44.0</data>
+<data key="key1">((55,black) : (2,black))</data>
+</edge>
+<edge id="137" source="55" target="6">
+<data key="edge_weight_key">19.0</data>
+<data key="key1">((55,black) : (6,black))</data>
+</edge>
+<edge id="138" source="56" target="14">
+<data key="edge_weight_key">93.0</data>
+<data key="key1">((56,white) : (14,black))</data>
+</edge>
+<edge id="139" source="56" target="42">
+<data key="edge_weight_key">39.0</data>
+<data key="key1">((56,white) : (42,black))</data>
+</edge>
+<edge id="140" source="57" target="4">
+<data key="edge_weight_key">45.0</data>
+<data key="key1">((57,white) : (4,white))</data>
+</edge>
+<edge id="141" source="57" target="3">
+<data key="edge_weight_key">90.0</data>
+<data key="key1">((57,white) : (3,black))</data>
+</edge>
+<edge id="142" source="58" target="41">
+<data key="edge_weight_key">13.0</data>
+<data key="key1">((58,white) : (41,white))</data>
+</edge>
+<edge id="143" source="58" target="4">
+<data key="edge_weight_key">80.0</data>
+<data key="key1">((58,white) : (4,white))</data>
+</edge>
+<edge id="144" source="59" target="32">
+<data key="edge_weight_key">19.0</data>
+<data key="key1">((59,black) : (32,black))</data>
+</edge>
+<edge id="145" source="59" target="6">
+<data key="edge_weight_key">31.0</data>
+<data key="key1">((59,black) : (6,black))</data>
+</edge>
+<edge id="146" source="60" target="9">
+<data key="edge_weight_key">73.0</data>
+<data key="key1">((60,white) : (9,black))</data>
+</edge>
+<edge id="147" source="60" target="34">
+<data key="edge_weight_key">46.0</data>
+<data key="key1">((60,white) : (34,black))</data>
+</edge>
+<edge id="148" source="61" target="5">
+<data key="edge_weight_key">90.0</data>
+<data key="key1">((61,white) : (5,white))</data>
+</edge>
+<edge id="149" source="61" target="0">
+<data key="edge_weight_key">56.0</data>
+<data key="key1">((61,white) : (0,black))</data>
+</edge>
+<edge id="150" source="62" target="28">
+<data key="edge_weight_key">78.0</data>
+<data key="key1">((62,black) : (28,white))</data>
+</edge>
+<edge id="151" source="62" target="0">
+<data key="edge_weight_key">26.0</data>
+<data key="key1">((62,black) : (0,black))</data>
+</edge>
+<edge id="152" source="63" target="12">
+<data key="edge_weight_key">48.0</data>
+<data key="key1">((63,black) : (12,black))</data>
+</edge>
+<edge id="153" source="63" target="8">
+<data key="edge_weight_key">56.0</data>
+<data key="key1">((63,black) : (8,white))</data>
+</edge>
+<edge id="154" source="64" target="6">
+<data key="edge_weight_key">13.0</data>
+<data key="key1">((64,white) : (6,black))</data>
+</edge>
+<edge id="155" source="64" target="37">
+<data key="edge_weight_key">3.0</data>
+<data key="key1">((64,white) : (37,black))</data>
+</edge>
+<edge id="156" source="65" target="2">
+<data key="edge_weight_key">20.0</data>
+<data key="key1">((65,black) : (2,black))</data>
+</edge>
+<edge id="157" source="65" target="52">
+<data key="edge_weight_key">96.0</data>
+<data key="key1">((65,black) : (52,white))</data>
+</edge>
+<edge id="158" source="66" target="17">
+<data key="edge_weight_key">79.0</data>
+<data key="key1">((66,black) : (17,black))</data>
+</edge>
+<edge id="159" source="66" target="4">
+<data key="edge_weight_key">4.0</data>
+<data key="key1">((66,black) : (4,white))</data>
+</edge>
+<edge id="160" source="67" target="50">
+<data key="edge_weight_key">28.0</data>
+<data key="key1">((67,white) : (50,white))</data>
+</edge>
+<edge id="161" source="67" target="54">
+<data key="edge_weight_key">65.0</data>
+<data key="key1">((67,white) : (54,white))</data>
+</edge>
+<edge id="162" source="68" target="46">
+<data key="edge_weight_key">81.0</data>
+<data key="key1">((68,black) : (46,black))</data>
+</edge>
+<edge id="163" source="68" target="34">
+<data key="edge_weight_key">13.0</data>
+<data key="key1">((68,black) : (34,black))</data>
+</edge>
+<edge id="164" source="69" target="7">
+<data key="edge_weight_key">73.0</data>
+<data key="key1">((69,white) : (7,black))</data>
+</edge>
+<edge id="165" source="69" target="34">
+<data key="edge_weight_key">43.0</data>
+<data key="key1">((69,white) : (34,black))</data>
+</edge>
+<edge id="166" source="70" target="1">
+<data key="edge_weight_key">2.0</data>
+<data key="key1">((70,black) : (1,black))</data>
+</edge>
+<edge id="167" source="70" target="0">
+<data key="edge_weight_key">62.0</data>
+<data key="key1">((70,black) : (0,black))</data>
+</edge>
+<edge id="168" source="71" target="2">
+<data key="edge_weight_key">77.0</data>
+<data key="key1">((71,black) : (2,black))</data>
+</edge>
+<edge id="169" source="71" target="37">
+<data key="edge_weight_key">37.0</data>
+<data key="key1">((71,black) : (37,black))</data>
+</edge>
+<edge id="170" source="72" target="3">
+<data key="edge_weight_key">86.0</data>
+<data key="key1">((72,black) : (3,black))</data>
+</edge>
+<edge id="171" source="72" target="59">
+<data key="edge_weight_key">85.0</data>
+<data key="key1">((72,black) : (59,black))</data>
+</edge>
+<edge id="172" source="73" target="9">
+<data key="edge_weight_key">91.0</data>
+<data key="key1">((73,white) : (9,black))</data>
+</edge>
+<edge id="173" source="73" target="2">
+<data key="edge_weight_key">61.0</data>
+<data key="key1">((73,white) : (2,black))</data>
+</edge>
+<edge id="174" source="74" target="9">
+<data key="edge_weight_key">92.0</data>
+<data key="key1">((74,black) : (9,black))</data>
+</edge>
+<edge id="175" source="74" target="13">
+<data key="edge_weight_key">4.0</data>
+<data key="key1">((74,black) : (13,white))</data>
+</edge>
+<edge id="176" source="75" target="6">
+<data key="edge_weight_key">7.0</data>
+<data key="key1">((75,black) : (6,black))</data>
+</edge>
+<edge id="177" source="75" target="59">
+<data key="edge_weight_key">57.0</data>
+<data key="key1">((75,black) : (59,black))</data>
+</edge>
+<edge id="178" source="76" target="37">
+<data key="edge_weight_key">48.0</data>
+<data key="key1">((76,black) : (37,black))</data>
+</edge>
+<edge id="179" source="76" target="26">
+<data key="edge_weight_key">8.0</data>
+<data key="key1">((76,black) : (26,black))</data>
+</edge>
+<edge id="180" source="77" target="59">
+<data key="edge_weight_key">89.0</data>
+<data key="key1">((77,white) : (59,black))</data>
+</edge>
+<edge id="181" source="77" target="7">
+<data key="edge_weight_key">36.0</data>
+<data key="key1">((77,white) : (7,black))</data>
+</edge>
+<edge id="182" source="78" target="4">
+<data key="edge_weight_key">69.0</data>
+<data key="key1">((78,white) : (4,white))</data>
+</edge>
+<edge id="183" source="78" target="2">
+<data key="edge_weight_key">94.0</data>
+<data key="key1">((78,white) : (2,black))</data>
+</edge>
+<edge id="184" source="79" target="9">
+<data key="edge_weight_key">5.0</data>
+<data key="key1">((79,black) : (9,black))</data>
+</edge>
+<edge id="185" source="79" target="5">
+<data key="edge_weight_key">60.0</data>
+<data key="key1">((79,black) : (5,white))</data>
+</edge>
+<edge id="186" source="80" target="9">
+<data key="edge_weight_key">22.0</data>
+<data key="key1">((80,white) : (9,black))</data>
+</edge>
+<edge id="187" source="80" target="67">
+<data key="edge_weight_key">47.0</data>
+<data key="key1">((80,white) : (67,white))</data>
+</edge>
+<edge id="188" source="81" target="11">
+<data key="edge_weight_key">70.0</data>
+<data key="key1">((81,black) : (11,black))</data>
+</edge>
+<edge id="189" source="81" target="41">
+<data key="edge_weight_key">41.0</data>
+<data key="key1">((81,black) : (41,white))</data>
+</edge>
+<edge id="190" source="82" target="12">
+<data key="edge_weight_key">56.0</data>
+<data key="key1">((82,white) : (12,black))</data>
+</edge>
+<edge id="191" source="82" target="9">
+<data key="edge_weight_key">19.0</data>
+<data key="key1">((82,white) : (9,black))</data>
+</edge>
+<edge id="192" source="83" target="35">
+<data key="edge_weight_key">40.0</data>
+<data key="key1">((83,black) : (35,white))</data>
+</edge>
+<edge id="193" source="83" target="12">
+<data key="edge_weight_key">21.0</data>
+<data key="key1">((83,black) : (12,black))</data>
+</edge>
+<edge id="194" source="84" target="56">
+<data key="edge_weight_key">32.0</data>
+<data key="key1">((84,white) : (56,white))</data>
+</edge>
+<edge id="195" source="84" target="9">
+<data key="edge_weight_key">46.0</data>
+<data key="key1">((84,white) : (9,black))</data>
+</edge>
+<edge id="196" source="85" target="0">
+<data key="edge_weight_key">68.0</data>
+<data key="key1">((85,black) : (0,black))</data>
+</edge>
+<edge id="197" source="85" target="4">
+<data key="edge_weight_key">10.0</data>
+<data key="key1">((85,black) : (4,white))</data>
+</edge>
+<edge id="198" source="86" target="2">
+<data key="edge_weight_key">32.0</data>
+<data key="key1">((86,white) : (2,black))</data>
+</edge>
+<edge id="199" source="86" target="6">
+<data key="edge_weight_key">72.0</data>
+<data key="key1">((86,white) : (6,black))</data>
+</edge>
+<edge id="200" source="87" target="2">
+<data key="edge_weight_key">82.0</data>
+<data key="key1">((87,black) : (2,black))</data>
+</edge>
+<edge id="201" source="87" target="61">
+<data key="edge_weight_key">36.0</data>
+<data key="key1">((87,black) : (61,white))</data>
+</edge>
+<edge id="202" source="88" target="7">
+<data key="edge_weight_key">31.0</data>
+<data key="key1">((88,black) : (7,black))</data>
+</edge>
+<edge id="203" source="88" target="8">
+<data key="edge_weight_key">63.0</data>
+<data key="key1">((88,black) : (8,white))</data>
+</edge>
+<edge id="204" source="89" target="14">
+<data key="edge_weight_key">74.0</data>
+<data key="key1">((89,black) : (14,black))</data>
+</edge>
+<edge id="205" source="89" target="80">
+<data key="edge_weight_key">9.0</data>
+<data key="key1">((89,black) : (80,white))</data>
+</edge>
+<edge id="206" source="90" target="3">
+<data key="edge_weight_key">31.0</data>
+<data key="key1">((90,black) : (3,black))</data>
+</edge>
+<edge id="207" source="90" target="44">
+<data key="edge_weight_key">16.0</data>
+<data key="key1">((90,black) : (44,black))</data>
+</edge>
+<edge id="208" source="91" target="30">
+<data key="edge_weight_key">80.0</data>
+<data key="key1">((91,black) : (30,black))</data>
+</edge>
+<edge id="209" source="91" target="11">
+<data key="edge_weight_key">6.0</data>
+<data key="key1">((91,black) : (11,black))</data>
+</edge>
+<edge id="210" source="92" target="6">
+<data key="edge_weight_key">48.0</data>
+<data key="key1">((92,white) : (6,black))</data>
+</edge>
+<edge id="211" source="92" target="8">
+<data key="edge_weight_key">34.0</data>
+<data key="key1">((92,white) : (8,white))</data>
+</edge>
+<edge id="212" source="93" target="79">
+<data key="edge_weight_key">31.0</data>
+<data key="key1">((93,black) : (79,black))</data>
+</edge>
+<edge id="213" source="93" target="16">
+<data key="edge_weight_key">69.0</data>
+<data key="key1">((93,black) : (16,black))</data>
+</edge>
+<edge id="214" source="94" target="60">
+<data key="edge_weight_key">2.0</data>
+<data key="key1">((94,white) : (60,white))</data>
+</edge>
+<edge id="215" source="94" target="26">
+<data key="edge_weight_key">38.0</data>
+<data key="key1">((94,white) : (26,black))</data>
+</edge>
+<edge id="216" source="95" target="37">
+<data key="edge_weight_key">37.0</data>
+<data key="key1">((95,white) : (37,black))</data>
+</edge>
+<edge id="217" source="95" target="4">
+<data key="edge_weight_key">64.0</data>
+<data key="key1">((95,white) : (4,white))</data>
+</edge>
+<edge id="218" source="96" target="11">
+<data key="edge_weight_key">24.0</data>
+<data key="key1">((96,black) : (11,black))</data>
+</edge>
+<edge id="219" source="96" target="2">
+<data key="edge_weight_key">88.0</data>
+<data key="key1">((96,black) : (2,black))</data>
+</edge>
+<edge id="220" source="97" target="89">
+<data key="edge_weight_key">75.0</data>
+<data key="key1">((97,black) : (89,black))</data>
+</edge>
+<edge id="221" source="97" target="26">
+<data key="key1">((97,black) : (26,black))</data>
+</edge>
+<edge id="222" source="98" target="2">
+<data key="edge_weight_key">82.0</data>
+<data key="key1">((98,white) : (2,black))</data>
+</edge>
+<edge id="223" source="98" target="86">
+<data key="edge_weight_key">96.0</data>
+<data key="key1">((98,white) : (86,white))</data>
+</edge>
+<edge id="224" source="99" target="4">
+<data key="edge_weight_key">31.0</data>
+<data key="key1">((99,white) : (4,white))</data>
+</edge>
+<edge id="225" source="99" target="64">
+<data key="edge_weight_key">77.0</data>
+<data key="key1">((99,white) : (64,white))</data>
+</edge>
+<edge id="226" source="100" target="72">
+<data key="edge_weight_key">82.0</data>
+<data key="key1">((100,black) : (72,black))</data>
+</edge>
+<edge id="227" source="100" target="64">
+<data key="edge_weight_key">74.0</data>
+<data key="key1">((100,black) : (64,white))</data>
+</edge>
+<edge id="228" source="101" target="9">
+<data key="edge_weight_key">24.0</data>
+<data key="key1">((101,white) : (9,black))</data>
+</edge>
+<edge id="229" source="101" target="37">
+<data key="key1">((101,white) : (37,black))</data>
+</edge>
+<edge id="230" source="102" target="93">
+<data key="edge_weight_key">33.0</data>
+<data key="key1">((102,black) : (93,black))</data>
+</edge>
+<edge id="231" source="102" target="59">
+<data key="edge_weight_key">24.0</data>
+<data key="key1">((102,black) : (59,black))</data>
+</edge>
+<edge id="232" source="103" target="7">
+<data key="edge_weight_key">45.0</data>
+<data key="key1">((103,white) : (7,black))</data>
+</edge>
+<edge id="233" source="103" target="3">
+<data key="edge_weight_key">10.0</data>
+<data key="key1">((103,white) : (3,black))</data>
+</edge>
+<edge id="234" source="104" target="3">
+<data key="edge_weight_key">36.0</data>
+<data key="key1">((104,white) : (3,black))</data>
+</edge>
+<edge id="235" source="104" target="43">
+<data key="edge_weight_key">57.0</data>
+<data key="key1">((104,white) : (43,black))</data>
+</edge>
+<edge id="236" source="105" target="56">
+<data key="edge_weight_key">78.0</data>
+<data key="key1">((105,black) : (56,white))</data>
+</edge>
+<edge id="237" source="105" target="8">
+<data key="edge_weight_key">61.0</data>
+<data key="key1">((105,black) : (8,white))</data>
+</edge>
+<edge id="238" source="106" target="2">
+<data key="edge_weight_key">2.0</data>
+<data key="key1">((106,black) : (2,black))</data>
+</edge>
+<edge id="239" source="106" target="0">
+<data key="edge_weight_key">38.0</data>
+<data key="key1">((106,black) : (0,black))</data>
+</edge>
+<edge id="240" source="107" target="0">
+<data key="edge_weight_key">39.0</data>
+<data key="key1">((107,white) : (0,black))</data>
+</edge>
+<edge id="241" source="107" target="42">
+<data key="edge_weight_key">15.0</data>
+<data key="key1">((107,white) : (42,black))</data>
+</edge>
+<edge id="242" source="108" target="56">
+<data key="edge_weight_key">40.0</data>
+<data key="key1">((108,black) : (56,white))</data>
+</edge>
+<edge id="243" source="108" target="34">
+<data key="edge_weight_key">69.0</data>
+<data key="key1">((108,black) : (34,black))</data>
+</edge>
+<edge id="244" source="109" target="4">
+<data key="edge_weight_key">62.0</data>
+<data key="key1">((109,white) : (4,white))</data>
+</edge>
+<edge id="245" source="109" target="23">
+<data key="edge_weight_key">23.0</data>
+<data key="key1">((109,white) : (23,white))</data>
+</edge>
+<edge id="246" source="110" target="6">
+<data key="edge_weight_key">28.0</data>
+<data key="key1">((110,black) : (6,black))</data>
+</edge>
+<edge id="247" source="110" target="20">
+<data key="edge_weight_key">58.0</data>
+<data key="key1">((110,black) : (20,white))</data>
+</edge>
+<edge id="248" source="111" target="4">
+<data key="edge_weight_key">3.0</data>
+<data key="key1">((111,black) : (4,white))</data>
+</edge>
+<edge id="249" source="111" target="1">
+<data key="edge_weight_key">80.0</data>
+<data key="key1">((111,black) : (1,black))</data>
+</edge>
+<edge id="250" source="112" target="4">
+<data key="edge_weight_key">49.0</data>
+<data key="key1">((112,white) : (4,white))</data>
+</edge>
+<edge id="251" source="112" target="24">
+<data key="edge_weight_key">44.0</data>
+<data key="key1">((112,white) : (24,black))</data>
+</edge>
+<edge id="252" source="113" target="37">
+<data key="edge_weight_key">48.0</data>
+<data key="key1">((113,black) : (37,black))</data>
+</edge>
+<edge id="253" source="113" target="20">
+<data key="edge_weight_key">83.0</data>
+<data key="key1">((113,black) : (20,white))</data>
+</edge>
+<edge id="254" source="114" target="8">
+<data key="edge_weight_key">35.0</data>
+<data key="key1">((114,white) : (8,white))</data>
+</edge>
+<edge id="255" source="114" target="56">
+<data key="edge_weight_key">0.0</data>
+<data key="key1">((114,white) : (56,white))</data>
+</edge>
+<edge id="256" source="115" target="14">
+<data key="edge_weight_key">15.0</data>
+<data key="key1">((115,black) : (14,black))</data>
+</edge>
+<edge id="257" source="115" target="52">
+<data key="edge_weight_key">66.0</data>
+<data key="key1">((115,black) : (52,white))</data>
+</edge>
+<edge id="258" source="116" target="92">
+<data key="edge_weight_key">99.0</data>
+<data key="key1">((116,black) : (92,white))</data>
+</edge>
+<edge id="259" source="116" target="2">
+<data key="edge_weight_key">94.0</data>
+<data key="key1">((116,black) : (2,black))</data>
+</edge>
+<edge id="260" source="117" target="5">
+<data key="edge_weight_key">44.0</data>
+<data key="key1">((117,black) : (5,white))</data>
+</edge>
+<edge id="261" source="117" target="99">
+<data key="edge_weight_key">20.0</data>
+<data key="key1">((117,black) : (99,white))</data>
+</edge>
+<edge id="262" source="118" target="3">
+<data key="edge_weight_key">89.0</data>
+<data key="key1">((118,white) : (3,black))</data>
+</edge>
+<edge id="263" source="118" target="6">
+<data key="edge_weight_key">69.0</data>
+<data key="key1">((118,white) : (6,black))</data>
+</edge>
+<edge id="264" source="119" target="83">
+<data key="edge_weight_key">19.0</data>
+<data key="key1">((119,black) : (83,black))</data>
+</edge>
+<edge id="265" source="119" target="8">
+<data key="edge_weight_key">73.0</data>
+<data key="key1">((119,black) : (8,white))</data>
+</edge>
+<edge id="266" source="120" target="55">
+<data key="edge_weight_key">77.0</data>
+<data key="key1">((120,black) : (55,black))</data>
+</edge>
+<edge id="267" source="120" target="56">
+<data key="edge_weight_key">12.0</data>
+<data key="key1">((120,black) : (56,white))</data>
+</edge>
+<edge id="268" source="121" target="28">
+<data key="edge_weight_key">12.0</data>
+<data key="key1">((121,black) : (28,white))</data>
+</edge>
+<edge id="269" source="121" target="50">
+<data key="edge_weight_key">73.0</data>
+<data key="key1">((121,black) : (50,white))</data>
+</edge>
+<edge id="270" source="122" target="27">
+<data key="edge_weight_key">66.0</data>
+<data key="key1">((122,black) : (27,white))</data>
+</edge>
+<edge id="271" source="122" target="61">
+<data key="edge_weight_key">2.0</data>
+<data key="key1">((122,black) : (61,white))</data>
+</edge>
+<edge id="272" source="123" target="52">
+<data key="edge_weight_key">87.0</data>
+<data key="key1">((123,white) : (52,white))</data>
+</edge>
+<edge id="273" source="123" target="48">
+<data key="edge_weight_key">86.0</data>
+<data key="key1">((123,white) : (48,black))</data>
+</edge>
+<edge id="274" source="124" target="4">
+<data key="edge_weight_key">82.0</data>
+<data key="key1">((124,white) : (4,white))</data>
+</edge>
+<edge id="275" source="124" target="122">
+<data key="edge_weight_key">6.0</data>
+<data key="key1">((124,white) : (122,black))</data>
+</edge>
+<edge id="276" source="125" target="7">
+<data key="edge_weight_key">15.0</data>
+<data key="key1">((125,white) : (7,black))</data>
+</edge>
+<edge id="277" source="125" target="9">
+<data key="edge_weight_key">59.0</data>
+<data key="key1">((125,white) : (9,black))</data>
+</edge>
+<edge id="278" source="126" target="44">
+<data key="edge_weight_key">44.0</data>
+<data key="key1">((126,white) : (44,black))</data>
+</edge>
+<edge id="279" source="126" target="33">
+<data key="edge_weight_key">42.0</data>
+<data key="key1">((126,white) : (33,white))</data>
+</edge>
+<edge id="280" source="127" target="2">
+<data key="edge_weight_key">7.0</data>
+<data key="key1">((127,white) : (2,black))</data>
+</edge>
+<edge id="281" source="127" target="8">
+<data key="edge_weight_key">84.0</data>
+<data key="key1">((127,white) : (8,white))</data>
+</edge>
+<edge id="282" source="128" target="83">
+<data key="edge_weight_key">7.0</data>
+<data key="key1">((128,black) : (83,black))</data>
+</edge>
+<edge id="283" source="128" target="59">
+<data key="edge_weight_key">6.0</data>
+<data key="key1">((128,black) : (59,black))</data>
+</edge>
+<edge id="284" source="129" target="52">
+<data key="edge_weight_key">39.0</data>
+<data key="key1">((129,black) : (52,white))</data>
+</edge>
+<edge id="285" source="129" target="93">
+<data key="edge_weight_key">99.0</data>
+<data key="key1">((129,black) : (93,black))</data>
+</edge>
+<edge id="286" source="130" target="76">
+<data key="edge_weight_key">42.0</data>
+<data key="key1">((130,black) : (76,black))</data>
+</edge>
+<edge id="287" source="130" target="8">
+<data key="edge_weight_key">42.0</data>
+<data key="key1">((130,black) : (8,white))</data>
+</edge>
+<edge id="288" source="131" target="26">
+<data key="edge_weight_key">93.0</data>
+<data key="key1">((131,black) : (26,black))</data>
+</edge>
+<edge id="289" source="131" target="65">
+<data key="edge_weight_key">24.0</data>
+<data key="key1">((131,black) : (65,black))</data>
+</edge>
+<edge id="290" source="132" target="8">
+<data key="edge_weight_key">78.0</data>
+<data key="key1">((132,white) : (8,white))</data>
+</edge>
+<edge id="291" source="132" target="35">
+<data key="edge_weight_key">77.0</data>
+<data key="key1">((132,white) : (35,white))</data>
+</edge>
+<edge id="292" source="133" target="37">
+<data key="edge_weight_key">87.0</data>
+<data key="key1">((133,black) : (37,black))</data>
+</edge>
+<edge id="293" source="133" target="34">
+<data key="edge_weight_key">66.0</data>
+<data key="key1">((133,black) : (34,black))</data>
+</edge>
+<edge id="294" source="134" target="27">
+<data key="edge_weight_key">24.0</data>
+<data key="key1">((134,black) : (27,white))</data>
+</edge>
+<edge id="295" source="134" target="52">
+<data key="edge_weight_key">84.0</data>
+<data key="key1">((134,black) : (52,white))</data>
+</edge>
+<edge id="296" source="135" target="83">
+<data key="edge_weight_key">7.0</data>
+<data key="key1">((135,black) : (83,black))</data>
+</edge>
+<edge id="297" source="135" target="66">
+<data key="edge_weight_key">59.0</data>
+<data key="key1">((135,black) : (66,black))</data>
+</edge>
+<edge id="298" source="136" target="1">
+<data key="edge_weight_key">50.0</data>
+<data key="key1">((136,white) : (1,black))</data>
+</edge>
+<edge id="299" source="136" target="30">
+<data key="edge_weight_key">74.0</data>
+<data key="key1">((136,white) : (30,black))</data>
+</edge>
+<edge id="300" source="137" target="44">
+<data key="edge_weight_key">6.0</data>
+<data key="key1">((137,white) : (44,black))</data>
+</edge>
+<edge id="301" source="137" target="88">
+<data key="edge_weight_key">94.0</data>
+<data key="key1">((137,white) : (88,black))</data>
+</edge>
+<edge id="302" source="138" target="4">
+<data key="edge_weight_key">62.0</data>
+<data key="key1">((138,black) : (4,white))</data>
+</edge>
+<edge id="303" source="138" target="3">
+<data key="edge_weight_key">46.0</data>
+<data key="key1">((138,black) : (3,black))</data>
+</edge>
+<edge id="304" source="139" target="72">
+<data key="edge_weight_key">13.0</data>
+<data key="key1">((139,white) : (72,black))</data>
+</edge>
+<edge id="305" source="139" target="70">
+<data key="edge_weight_key">99.0</data>
+<data key="key1">((139,white) : (70,black))</data>
+</edge>
+<edge id="306" source="140" target="118">
+<data key="edge_weight_key">92.0</data>
+<data key="key1">((140,white) : (118,white))</data>
+</edge>
+<edge id="307" source="140" target="123">
+<data key="edge_weight_key">96.0</data>
+<data key="key1">((140,white) : (123,white))</data>
+</edge>
+<edge id="308" source="141" target="34">
+<data key="edge_weight_key">22.0</data>
+<data key="key1">((141,black) : (34,black))</data>
+</edge>
+<edge id="309" source="141" target="4">
+<data key="edge_weight_key">16.0</data>
+<data key="key1">((141,black) : (4,white))</data>
+</edge>
+<edge id="310" source="142" target="4">
+<data key="edge_weight_key">16.0</data>
+<data key="key1">((142,black) : (4,white))</data>
+</edge>
+<edge id="311" source="142" target="1">
+<data key="edge_weight_key">57.0</data>
+<data key="key1">((142,black) : (1,black))</data>
+</edge>
+<edge id="312" source="143" target="0">
+<data key="edge_weight_key">18.0</data>
+<data key="key1">((143,black) : (0,black))</data>
+</edge>
+<edge id="313" source="143" target="4">
+<data key="edge_weight_key">56.0</data>
+<data key="key1">((143,black) : (4,white))</data>
+</edge>
+<edge id="314" source="144" target="6">
+<data key="edge_weight_key">63.0</data>
+<data key="key1">((144,white) : (6,black))</data>
+</edge>
+<edge id="315" source="144" target="124">
+<data key="edge_weight_key">15.0</data>
+<data key="key1">((144,white) : (124,white))</data>
+</edge>
+<edge id="316" source="145" target="1">
+<data key="edge_weight_key">29.0</data>
+<data key="key1">((145,black) : (1,black))</data>
+</edge>
+<edge id="317" source="145" target="53">
+<data key="edge_weight_key">98.0</data>
+<data key="key1">((145,black) : (53,white))</data>
+</edge>
+<edge id="318" source="146" target="4">
+<data key="edge_weight_key">44.0</data>
+<data key="key1">((146,black) : (4,white))</data>
+</edge>
+<edge id="319" source="146" target="26">
+<data key="edge_weight_key">44.0</data>
+<data key="key1">((146,black) : (26,black))</data>
+</edge>
+<edge id="320" source="147" target="117">
+<data key="edge_weight_key">32.0</data>
+<data key="key1">((147,white) : (117,black))</data>
+</edge>
+<edge id="321" source="147" target="121">
+<data key="edge_weight_key">27.0</data>
+<data key="key1">((147,white) : (121,black))</data>
+</edge>
+<edge id="322" source="148" target="111">
+<data key="edge_weight_key">8.0</data>
+<data key="key1">((148,white) : (111,black))</data>
+</edge>
+<edge id="323" source="148" target="6">
+<data key="edge_weight_key">18.0</data>
+<data key="key1">((148,white) : (6,black))</data>
+</edge>
+<edge id="324" source="149" target="76">
+<data key="edge_weight_key">79.0</data>
+<data key="key1">((149,black) : (76,black))</data>
+</edge>
+<edge id="325" source="149" target="8">
+<data key="edge_weight_key">95.0</data>
+<data key="key1">((149,black) : (8,white))</data>
+</edge>
+<edge id="326" source="150" target="5">
+<data key="edge_weight_key">31.0</data>
+<data key="key1">((150,black) : (5,white))</data>
+</edge>
+<edge id="327" source="150" target="8">
+<data key="edge_weight_key">84.0</data>
+<data key="key1">((150,black) : (8,white))</data>
+</edge>
+<edge id="328" source="151" target="11">
+<data key="edge_weight_key">54.0</data>
+<data key="key1">((151,black) : (11,black))</data>
+</edge>
+<edge id="329" source="151" target="28">
+<data key="edge_weight_key">26.0</data>
+<data key="key1">((151,black) : (28,white))</data>
+</edge>
+<edge id="330" source="152" target="50">
+<data key="edge_weight_key">70.0</data>
+<data key="key1">((152,black) : (50,white))</data>
+</edge>
+<edge id="331" source="152" target="34">
+<data key="edge_weight_key">81.0</data>
+<data key="key1">((152,black) : (34,black))</data>
+</edge>
+<edge id="332" source="153" target="97">
+<data key="edge_weight_key">73.0</data>
+<data key="key1">((153,black) : (97,black))</data>
+</edge>
+<edge id="333" source="153" target="4">
+<data key="edge_weight_key">60.0</data>
+<data key="key1">((153,black) : (4,white))</data>
+</edge>
+<edge id="334" source="154" target="93">
+<data key="edge_weight_key">86.0</data>
+<data key="key1">((154,black) : (93,black))</data>
+</edge>
+<edge id="335" source="154" target="8">
+<data key="edge_weight_key">56.0</data>
+<data key="key1">((154,black) : (8,white))</data>
+</edge>
+<edge id="336" source="155" target="4">
+<data key="edge_weight_key">37.0</data>
+<data key="key1">((155,white) : (4,white))</data>
+</edge>
+<edge id="337" source="155" target="123">
+<data key="edge_weight_key">24.0</data>
+<data key="key1">((155,white) : (123,white))</data>
+</edge>
+<edge id="338" source="156" target="40">
+<data key="edge_weight_key">87.0</data>
+<data key="key1">((156,black) : (40,white))</data>
+</edge>
+<edge id="339" source="156" target="13">
+<data key="edge_weight_key">51.0</data>
+<data key="key1">((156,black) : (13,white))</data>
+</edge>
+<edge id="340" source="157" target="6">
+<data key="edge_weight_key">35.0</data>
+<data key="key1">((157,black) : (6,black))</data>
+</edge>
+<edge id="341" source="157" target="41">
+<data key="edge_weight_key">51.0</data>
+<data key="key1">((157,black) : (41,white))</data>
+</edge>
+<edge id="342" source="158" target="0">
+<data key="edge_weight_key">42.0</data>
+<data key="key1">((158,black) : (0,black))</data>
+</edge>
+<edge id="343" source="158" target="148">
+<data key="edge_weight_key">12.0</data>
+<data key="key1">((158,black) : (148,white))</data>
+</edge>
+<edge id="344" source="159" target="27">
+<data key="edge_weight_key">28.0</data>
+<data key="key1">((159,black) : (27,white))</data>
+</edge>
+<edge id="345" source="159" target="1">
+<data key="edge_weight_key">7.0</data>
+<data key="key1">((159,black) : (1,black))</data>
+</edge>
+<edge id="346" source="160" target="80">
+<data key="edge_weight_key">17.0</data>
+<data key="key1">((160,black) : (80,white))</data>
+</edge>
+<edge id="347" source="160" target="3">
+<data key="edge_weight_key">57.0</data>
+<data key="key1">((160,black) : (3,black))</data>
+</edge>
+<edge id="348" source="161" target="102">
+<data key="edge_weight_key">67.0</data>
+<data key="key1">((161,white) : (102,black))</data>
+</edge>
+<edge id="349" source="161" target="4">
+<data key="edge_weight_key">3.0</data>
+<data key="key1">((161,white) : (4,white))</data>
+</edge>
+<edge id="350" source="162" target="41">
+<data key="edge_weight_key">20.0</data>
+<data key="key1">((162,white) : (41,white))</data>
+</edge>
+<edge id="351" source="162" target="9">
+<data key="edge_weight_key">99.0</data>
+<data key="key1">((162,white) : (9,black))</data>
+</edge>
+<edge id="352" source="163" target="8">
+<data key="edge_weight_key">77.0</data>
+<data key="key1">((163,white) : (8,white))</data>
+</edge>
+<edge id="353" source="163" target="138">
+<data key="edge_weight_key">43.0</data>
+<data key="key1">((163,white) : (138,black))</data>
+</edge>
+<edge id="354" source="164" target="9">
+<data key="edge_weight_key">17.0</data>
+<data key="key1">((164,black) : (9,black))</data>
+</edge>
+<edge id="355" source="164" target="2">
+<data key="edge_weight_key">36.0</data>
+<data key="key1">((164,black) : (2,black))</data>
+</edge>
+<edge id="356" source="165" target="16">
+<data key="edge_weight_key">19.0</data>
+<data key="key1">((165,white) : (16,black))</data>
+</edge>
+<edge id="357" source="165" target="26">
+<data key="edge_weight_key">88.0</data>
+<data key="key1">((165,white) : (26,black))</data>
+</edge>
+<edge id="358" source="166" target="60">
+<data key="key1">((166,black) : (60,white))</data>
+</edge>
+<edge id="359" source="166" target="27">
+<data key="edge_weight_key">82.0</data>
+<data key="key1">((166,black) : (27,white))</data>
+</edge>
+<edge id="360" source="167" target="60">
+<data key="edge_weight_key">51.0</data>
+<data key="key1">((167,black) : (60,white))</data>
+</edge>
+<edge id="361" source="167" target="22">
+<data key="edge_weight_key">71.0</data>
+<data key="key1">((167,black) : (22,black))</data>
+</edge>
+<edge id="362" source="168" target="111">
+<data key="edge_weight_key">31.0</data>
+<data key="key1">((168,white) : (111,black))</data>
+</edge>
+<edge id="363" source="168" target="59">
+<data key="edge_weight_key">52.0</data>
+<data key="key1">((168,white) : (59,black))</data>
+</edge>
+<edge id="364" source="169" target="18">
+<data key="edge_weight_key">62.0</data>
+<data key="key1">((169,black) : (18,white))</data>
+</edge>
+<edge id="365" source="169" target="134">
+<data key="edge_weight_key">53.0</data>
+<data key="key1">((169,black) : (134,black))</data>
+</edge>
+<edge id="366" source="170" target="49">
+<data key="edge_weight_key">38.0</data>
+<data key="key1">((170,black) : (49,black))</data>
+</edge>
+<edge id="367" source="170" target="71">
+<data key="edge_weight_key">4.0</data>
+<data key="key1">((170,black) : (71,black))</data>
+</edge>
+<edge id="368" source="171" target="30">
+<data key="edge_weight_key">22.0</data>
+<data key="key1">((171,white) : (30,black))</data>
+</edge>
+<edge id="369" source="171" target="37">
+<data key="edge_weight_key">92.0</data>
+<data key="key1">((171,white) : (37,black))</data>
+</edge>
+<edge id="370" source="172" target="0">
+<data key="edge_weight_key">39.0</data>
+<data key="key1">((172,black) : (0,black))</data>
+</edge>
+<edge id="371" source="172" target="48">
+<data key="edge_weight_key">79.0</data>
+<data key="key1">((172,black) : (48,black))</data>
+</edge>
+<edge id="372" source="173" target="152">
+<data key="edge_weight_key">23.0</data>
+<data key="key1">((173,black) : (152,black))</data>
+</edge>
+<edge id="373" source="173" target="56">
+<data key="edge_weight_key">39.0</data>
+<data key="key1">((173,black) : (56,white))</data>
+</edge>
+<edge id="374" source="174" target="2">
+<data key="edge_weight_key">85.0</data>
+<data key="key1">((174,white) : (2,black))</data>
+</edge>
+<edge id="375" source="174" target="22">
+<data key="edge_weight_key">14.0</data>
+<data key="key1">((174,white) : (22,black))</data>
+</edge>
+<edge id="376" source="175" target="9">
+<data key="edge_weight_key">60.0</data>
+<data key="key1">((175,black) : (9,black))</data>
+</edge>
+<edge id="377" source="175" target="91">
+<data key="edge_weight_key">7.0</data>
+<data key="key1">((175,black) : (91,black))</data>
+</edge>
+<edge id="378" source="176" target="26">
+<data key="edge_weight_key">16.0</data>
+<data key="key1">((176,black) : (26,black))</data>
+</edge>
+<edge id="379" source="176" target="8">
+<data key="edge_weight_key">78.0</data>
+<data key="key1">((176,black) : (8,white))</data>
+</edge>
+<edge id="380" source="177" target="0">
+<data key="edge_weight_key">7.0</data>
+<data key="key1">((177,white) : (0,black))</data>
+</edge>
+<edge id="381" source="177" target="2">
+<data key="edge_weight_key">34.0</data>
+<data key="key1">((177,white) : (2,black))</data>
+</edge>
+<edge id="382" source="178" target="99">
+<data key="edge_weight_key">10.0</data>
+<data key="key1">((178,black) : (99,white))</data>
+</edge>
+<edge id="383" source="178" target="160">
+<data key="edge_weight_key">22.0</data>
+<data key="key1">((178,black) : (160,black))</data>
+</edge>
+<edge id="384" source="179" target="5">
+<data key="edge_weight_key">71.0</data>
+<data key="key1">((179,black) : (5,white))</data>
+</edge>
+<edge id="385" source="179" target="2">
+<data key="edge_weight_key">35.0</data>
+<data key="key1">((179,black) : (2,black))</data>
+</edge>
+<edge id="386" source="180" target="117">
+<data key="edge_weight_key">13.0</data>
+<data key="key1">((180,white) : (117,black))</data>
+</edge>
+<edge id="387" source="180" target="0">
+<data key="edge_weight_key">72.0</data>
+<data key="key1">((180,white) : (0,black))</data>
+</edge>
+<edge id="388" source="181" target="153">
+<data key="edge_weight_key">47.0</data>
+<data key="key1">((181,white) : (153,black))</data>
+</edge>
+<edge id="389" source="181" target="6">
+<data key="edge_weight_key">36.0</data>
+<data key="key1">((181,white) : (6,black))</data>
+</edge>
+<edge id="390" source="182" target="68">
+<data key="edge_weight_key">19.0</data>
+<data key="key1">((182,black) : (68,black))</data>
+</edge>
+<edge id="391" source="182" target="122">
+<data key="edge_weight_key">94.0</data>
+<data key="key1">((182,black) : (122,black))</data>
+</edge>
+<edge id="392" source="183" target="26">
+<data key="edge_weight_key">43.0</data>
+<data key="key1">((183,white) : (26,black))</data>
+</edge>
+<edge id="393" source="183" target="49">
+<data key="edge_weight_key">66.0</data>
+<data key="key1">((183,white) : (49,black))</data>
+</edge>
+<edge id="394" source="184" target="4">
+<data key="edge_weight_key">43.0</data>
+<data key="key1">((184,black) : (4,white))</data>
+</edge>
+<edge id="395" source="184" target="39">
+<data key="edge_weight_key">3.0</data>
+<data key="key1">((184,black) : (39,white))</data>
+</edge>
+<edge id="396" source="185" target="2">
+<data key="edge_weight_key">39.0</data>
+<data key="key1">((185,black) : (2,black))</data>
+</edge>
+<edge id="397" source="185" target="9">
+<data key="edge_weight_key">56.0</data>
+<data key="key1">((185,black) : (9,black))</data>
+</edge>
+<edge id="398" source="186" target="5">
+<data key="edge_weight_key">55.0</data>
+<data key="key1">((186,black) : (5,white))</data>
+</edge>
+<edge id="399" source="186" target="8">
+<data key="edge_weight_key">56.0</data>
+<data key="key1">((186,black) : (8,white))</data>
+</edge>
+<edge id="400" source="187" target="6">
+<data key="edge_weight_key">92.0</data>
+<data key="key1">((187,black) : (6,black))</data>
+</edge>
+<edge id="401" source="187" target="143">
+<data key="edge_weight_key">39.0</data>
+<data key="key1">((187,black) : (143,black))</data>
+</edge>
+<edge id="402" source="188" target="134">
+<data key="edge_weight_key">51.0</data>
+<data key="key1">((188,white) : (134,black))</data>
+</edge>
+<edge id="403" source="188" target="64">
+<data key="edge_weight_key">80.0</data>
+<data key="key1">((188,white) : (64,white))</data>
+</edge>
+<edge id="404" source="189" target="16">
+<data key="edge_weight_key">72.0</data>
+<data key="key1">((189,white) : (16,black))</data>
+</edge>
+<edge id="405" source="189" target="0">
+<data key="edge_weight_key">56.0</data>
+<data key="key1">((189,white) : (0,black))</data>
+</edge>
+<edge id="406" source="190" target="44">
+<data key="edge_weight_key">18.0</data>
+<data key="key1">((190,white) : (44,black))</data>
+</edge>
+<edge id="407" source="190" target="9">
+<data key="edge_weight_key">36.0</data>
+<data key="key1">((190,white) : (9,black))</data>
+</edge>
+<edge id="408" source="191" target="79">
+<data key="edge_weight_key">70.0</data>
+<data key="key1">((191,black) : (79,black))</data>
+</edge>
+<edge id="409" source="191" target="7">
+<data key="edge_weight_key">34.0</data>
+<data key="key1">((191,black) : (7,black))</data>
+</edge>
+<edge id="410" source="192" target="4">
+<data key="edge_weight_key">94.0</data>
+<data key="key1">((192,black) : (4,white))</data>
+</edge>
+<edge id="411" source="192" target="8">
+<data key="edge_weight_key">36.0</data>
+<data key="key1">((192,black) : (8,white))</data>
+</edge>
+<edge id="412" source="193" target="127">
+<data key="edge_weight_key">26.0</data>
+<data key="key1">((193,black) : (127,white))</data>
+</edge>
+<edge id="413" source="193" target="192">
+<data key="edge_weight_key">60.0</data>
+<data key="key1">((193,black) : (192,black))</data>
+</edge>
+<edge id="414" source="194" target="4">
+<data key="edge_weight_key">86.0</data>
+<data key="key1">((194,white) : (4,white))</data>
+</edge>
+<edge id="415" source="194" target="5">
+<data key="edge_weight_key">38.0</data>
+<data key="key1">((194,white) : (5,white))</data>
+</edge>
+<edge id="416" source="195" target="174">
+<data key="edge_weight_key">20.0</data>
+<data key="key1">((195,white) : (174,white))</data>
+</edge>
+<edge id="417" source="195" target="186">
+<data key="edge_weight_key">13.0</data>
+<data key="key1">((195,white) : (186,black))</data>
+</edge>
+<edge id="418" source="196" target="105">
+<data key="edge_weight_key">35.0</data>
+<data key="key1">((196,white) : (105,black))</data>
+</edge>
+<edge id="419" source="196" target="104">
+<data key="edge_weight_key">99.0</data>
+<data key="key1">((196,white) : (104,white))</data>
+</edge>
+<edge id="420" source="197" target="76">
+<data key="edge_weight_key">59.0</data>
+<data key="key1">((197,black) : (76,black))</data>
+</edge>
+<edge id="421" source="197" target="16">
+<data key="edge_weight_key">48.0</data>
+<data key="key1">((197,black) : (16,black))</data>
+</edge>
+<edge id="422" source="198" target="15">
+<data key="edge_weight_key">15.0</data>
+<data key="key1">((198,white) : (15,white))</data>
+</edge>
+<edge id="423" source="198" target="134">
+<data key="edge_weight_key">87.0</data>
+<data key="key1">((198,white) : (134,black))</data>
+</edge>
+<edge id="424" source="199" target="3">
+<data key="edge_weight_key">81.0</data>
+<data key="key1">((199,black) : (3,black))</data>
+</edge>
+<edge id="425" source="199" target="158">
+<data key="edge_weight_key">71.0</data>
+<data key="key1">((199,black) : (158,black))</data>
+</edge>
+</graph>
+</graphml>

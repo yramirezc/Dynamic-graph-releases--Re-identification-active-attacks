@@ -1,0 +1,8 @@
+Averages of 5 graphs
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 10 snapshots:0.125
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 10 snapshots:0.125
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 10 snapshots:0.125
+Average probability of Hybrid Attack after after adding random victims and log n sybils after 10 snapshots:0.125
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 10 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after 10 snapshots:1.0
+==============================================================================================================================================================================================================================

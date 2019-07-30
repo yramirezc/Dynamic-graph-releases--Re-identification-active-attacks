@@ -1,0 +1,760 @@
+Graph no.1_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.9
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.825
+Hybrid attack with intersection - Average after 10 snapshots is: 0.9
+Hybrid attack without intersection - Average after 10 snapshot is: 0.825
+Robust attack with intersection - Average after each 10 snapshots is: 0.95
+Robust attack without intersection - Average after each 10 snapshots is: 0.95
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.9
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.825
+Hybrid attack with intersection - Average after 20 snapshots is: 0.9
+Hybrid attack without intersection - Average after 20 snapshot is: 0.825
+Robust attack with intersection - Average after each 20 snapshots is: 0.95
+Robust attack without intersection - Average after each 20 snapshots is: 0.95
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.9
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.825
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.9
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.825
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.95
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:0.95
+Graph no.2_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.85
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.9
+Hybrid attack with intersection - Average after 10 snapshots is: 0.85
+Hybrid attack without intersection - Average after 10 snapshot is: 0.9
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.775
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.775
+Hybrid attack with intersection - Average after 20 snapshots is: 0.775
+Hybrid attack without intersection - Average after 20 snapshot is: 0.775
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.775
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.775
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.775
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.775
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.3_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.2081944444444445
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.15777777777777777
+Hybrid attack with intersection - Average after 10 snapshots is: 0.15819444444444444
+Hybrid attack without intersection - Average after 10 snapshot is: 0.15777777777777777
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.1462466931216932
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.1293369708994709
+Hybrid attack with intersection - Average after 20 snapshots is: 0.12124669312169312
+Hybrid attack without intersection - Average after 20 snapshot is: 0.1293369708994709
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.1462466931216932
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.1293369708994709
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.12124669312169312
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.1293369708994709
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.4_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.75
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.65
+Hybrid attack with intersection - Average after 10 snapshots is: 0.725
+Hybrid attack without intersection - Average after 10 snapshot is: 0.65
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.6749999999999999
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.5225
+Hybrid attack with intersection - Average after 20 snapshots is: 0.6624999999999999
+Hybrid attack without intersection - Average after 20 snapshot is: 0.5225
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.6749999999999999
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.5225
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.6624999999999999
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.5225
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.5_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.9
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.95
+Hybrid attack with intersection - Average after 10 snapshots is: 0.9
+Hybrid attack without intersection - Average after 10 snapshot is: 0.95
+Robust attack with intersection - Average after each 10 snapshots is: 0.95
+Robust attack without intersection - Average after each 10 snapshots is: 0.95
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.6520833333333333
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.6649305555555556
+Hybrid attack with intersection - Average after 20 snapshots is: 0.6520833333333333
+Hybrid attack without intersection - Average after 20 snapshot is: 0.6649305555555556
+Robust attack with intersection - Average after each 20 snapshots is: 0.975
+Robust attack without intersection - Average after each 20 snapshots is: 0.975
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.6520833333333333
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.6649305555555556
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.6520833333333333
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.6649305555555556
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.975
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:0.975
+Graph no.6_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.125
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.058333333333333334
+Hybrid attack with intersection - Average after 10 snapshots is: 0.09252777777777778
+Hybrid attack without intersection - Average after 10 snapshot is: 0.07297222222222222
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.0625
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.029166666666666667
+Hybrid attack with intersection - Average after 20 snapshots is: 0.06022341269841269
+Hybrid attack without intersection - Average after 20 snapshot is: 0.04697777777777777
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.0625
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.029166666666666667
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.06022341269841269
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.04697777777777777
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.7_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.1
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.1
+Hybrid attack with intersection - Average after 10 snapshots is: 0.8
+Hybrid attack without intersection - Average after 10 snapshot is: 0.8
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.05
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.05
+Hybrid attack with intersection - Average after 20 snapshots is: 0.6333333333333334
+Hybrid attack without intersection - Average after 20 snapshot is: 0.6458333333333334
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.05
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.05
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.6333333333333334
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.6458333333333334
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.8_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.655
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.755
+Hybrid attack with intersection - Average after 10 snapshots is: 0.655
+Hybrid attack without intersection - Average after 10 snapshot is: 0.755
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.42750000000000005
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.4525
+Hybrid attack with intersection - Average after 20 snapshots is: 0.7525000000000001
+Hybrid attack without intersection - Average after 20 snapshot is: 0.7775000000000001
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.42750000000000005
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.4525
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.7525000000000001
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.7775000000000001
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.9_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.9
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.9
+Hybrid attack with intersection - Average after 10 snapshots is: 0.9
+Hybrid attack without intersection - Average after 10 snapshot is: 0.9
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.8041666666666668
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.8541666666666667
+Hybrid attack with intersection - Average after 20 snapshots is: 0.8041666666666668
+Hybrid attack without intersection - Average after 20 snapshot is: 0.8541666666666667
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.8041666666666668
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.8541666666666667
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.8041666666666668
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.8541666666666667
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.10_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.32777777777777783
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.2888888888888889
+Hybrid attack with intersection - Average after 10 snapshots is: 0.2777777777777778
+Hybrid attack without intersection - Average after 10 snapshot is: 0.2888888888888889
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.28055555555555556
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.26944444444444443
+Hybrid attack with intersection - Average after 20 snapshots is: 0.28888888888888886
+Hybrid attack without intersection - Average after 20 snapshot is: 0.3027777777777777
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.28055555555555556
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.26944444444444443
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.28888888888888886
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.3027777777777777
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.11_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.14861111111111108
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.14638888888888885
+Hybrid attack with intersection - Average after 10 snapshots is: 0.14861111111111108
+Hybrid attack without intersection - Average after 10 snapshot is: 0.14638888888888885
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.08402777777777777
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.07788194444444442
+Hybrid attack with intersection - Average after 20 snapshots is: 0.1048611111111111
+Hybrid attack without intersection - Average after 20 snapshot is: 0.1028819444444444
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.08402777777777777
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.07788194444444442
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.1048611111111111
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.1028819444444444
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.12_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.75
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.5833333333333333
+Hybrid attack with intersection - Average after 10 snapshots is: 0.75
+Hybrid attack without intersection - Average after 10 snapshot is: 0.5833333333333333
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.5388888888888889
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.42326388888888894
+Hybrid attack with intersection - Average after 20 snapshots is: 0.5388888888888889
+Hybrid attack without intersection - Average after 20 snapshot is: 0.42326388888888894
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.5388888888888889
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.42326388888888894
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.5388888888888889
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.42326388888888894
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.13_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.35
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.33333333333333337
+Hybrid attack with intersection - Average after 10 snapshots is: 0.35
+Hybrid attack without intersection - Average after 10 snapshot is: 0.33333333333333337
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.26041666666666663
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.23645833333333335
+Hybrid attack with intersection - Average after 20 snapshots is: 0.26041666666666663
+Hybrid attack without intersection - Average after 20 snapshot is: 0.23645833333333335
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.26041666666666663
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.23645833333333335
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.26041666666666663
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.23645833333333335
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.14_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.21000000000000002
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.16333333333333339
+Hybrid attack with intersection - Average after 10 snapshots is: 0.21000000000000002
+Hybrid attack without intersection - Average after 10 snapshot is: 0.16333333333333339
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.15000000000000005
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.12416666666666669
+Hybrid attack with intersection - Average after 20 snapshots is: 0.15000000000000005
+Hybrid attack without intersection - Average after 20 snapshot is: 0.12416666666666669
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.15000000000000005
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.12416666666666669
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.15000000000000005
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.12416666666666669
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.15_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.8
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.8
+Hybrid attack with intersection - Average after 10 snapshots is: 0.8
+Hybrid attack without intersection - Average after 10 snapshot is: 0.8
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.85
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.8125
+Hybrid attack with intersection - Average after 20 snapshots is: 0.85
+Hybrid attack without intersection - Average after 20 snapshot is: 0.8125
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.85
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.8125
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.85
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.8125
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.16_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.6833333333333333
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.7833333333333333
+Hybrid attack with intersection - Average after 10 snapshots is: 0.6833333333333333
+Hybrid attack without intersection - Average after 10 snapshot is: 0.7833333333333333
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.4252083333333333
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.4803645833333333
+Hybrid attack with intersection - Average after 20 snapshots is: 0.4252083333333333
+Hybrid attack without intersection - Average after 20 snapshot is: 0.4803645833333333
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.4252083333333333
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.4803645833333333
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.4252083333333333
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.4803645833333333
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.17_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.13333333333333333
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.13333333333333333
+Hybrid attack with intersection - Average after 10 snapshots is: 0.6333333333333333
+Hybrid attack without intersection - Average after 10 snapshot is: 0.6833333333333333
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.06666666666666667
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.06666666666666667
+Hybrid attack with intersection - Average after 20 snapshots is: 0.7
+Hybrid attack without intersection - Average after 20 snapshot is: 0.725
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.06666666666666667
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.06666666666666667
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.7
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.725
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.18_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.34666666666666673
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.31499999999999995
+Hybrid attack with intersection - Average after 10 snapshots is: 0.34666666666666673
+Hybrid attack without intersection - Average after 10 snapshot is: 0.31499999999999995
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.3708333333333334
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.39375
+Hybrid attack with intersection - Average after 20 snapshots is: 0.3708333333333334
+Hybrid attack without intersection - Average after 20 snapshot is: 0.39375
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.3708333333333334
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.39375
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.3708333333333334
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.39375
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.19_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.35
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.375
+Hybrid attack with intersection - Average after 10 snapshots is: 0.725
+Hybrid attack without intersection - Average after 10 snapshot is: 0.725
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.175
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.1875
+Hybrid attack with intersection - Average after 20 snapshots is: 0.7875
+Hybrid attack without intersection - Average after 20 snapshot is: 0.75
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.175
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.1875
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.7875
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.75
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.20_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.6116666666666667
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.7116666666666667
+Hybrid attack with intersection - Average after 10 snapshots is: 0.6116666666666667
+Hybrid attack without intersection - Average after 10 snapshot is: 0.7116666666666667
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.39583333333333326
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.4625
+Hybrid attack with intersection - Average after 20 snapshots is: 0.39583333333333326
+Hybrid attack without intersection - Average after 20 snapshot is: 0.4625
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.39583333333333326
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.4625
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.39583333333333326
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.4625
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.21_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.25
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.35
+Hybrid attack with intersection - Average after 10 snapshots is: 0.25
+Hybrid attack without intersection - Average after 10 snapshot is: 0.35
+Robust attack with intersection - Average after each 10 snapshots is: 0.75
+Robust attack without intersection - Average after each 10 snapshots is: 0.75
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.125
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.175
+Hybrid attack with intersection - Average after 20 snapshots is: 0.125
+Hybrid attack without intersection - Average after 20 snapshot is: 0.175
+Robust attack with intersection - Average after each 20 snapshots is: 0.725
+Robust attack without intersection - Average after each 20 snapshots is: 0.725
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.125
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.175
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.125
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.175
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.725
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:0.725
+Graph no.22_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.5
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.5166666666666666
+Hybrid attack with intersection - Average after 10 snapshots is: 0.73
+Hybrid attack without intersection - Average after 10 snapshot is: 0.6966666666666665
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.25
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.2583333333333333
+Hybrid attack with intersection - Average after 20 snapshots is: 0.375
+Hybrid attack without intersection - Average after 20 snapshot is: 0.3583333333333333
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.25
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.2583333333333333
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.375
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.3583333333333333
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.23_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.6
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.6
+Hybrid attack with intersection - Average after 10 snapshots is: 0.6
+Hybrid attack without intersection - Average after 10 snapshot is: 0.6
+Robust attack with intersection - Average after each 10 snapshots is: 0.95
+Robust attack without intersection - Average after each 10 snapshots is: 0.95
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.4474999999999999
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.4374999999999999
+Hybrid attack with intersection - Average after 20 snapshots is: 0.4474999999999999
+Hybrid attack without intersection - Average after 20 snapshot is: 0.4374999999999999
+Robust attack with intersection - Average after each 20 snapshots is: 0.975
+Robust attack without intersection - Average after each 20 snapshots is: 0.975
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.4474999999999999
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.4374999999999999
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.4474999999999999
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.4374999999999999
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.975
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:0.975
+Graph no.24_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.0
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.0
+Hybrid attack with intersection - Average after 10 snapshots is: 0.0
+Hybrid attack without intersection - Average after 10 snapshot is: 0.0
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.0
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.0
+Hybrid attack with intersection - Average after 20 snapshots is: 0.0
+Hybrid attack without intersection - Average after 20 snapshot is: 0.0
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.0
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.0
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.0
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.0
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.25_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.65
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.65
+Hybrid attack with intersection - Average after 10 snapshots is: 0.65
+Hybrid attack without intersection - Average after 10 snapshot is: 0.65
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.775
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.775
+Hybrid attack with intersection - Average after 20 snapshots is: 0.775
+Hybrid attack without intersection - Average after 20 snapshot is: 0.775
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.775
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.775
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.775
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.775
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.26_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.4618055555555555
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.5086805555555556
+Hybrid attack with intersection - Average after 10 snapshots is: 0.4618055555555555
+Hybrid attack without intersection - Average after 10 snapshot is: 0.5086805555555556
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.2559027777777777
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.28211805555555547
+Hybrid attack with intersection - Average after 20 snapshots is: 0.2559027777777777
+Hybrid attack without intersection - Average after 20 snapshot is: 0.28211805555555547
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.2559027777777777
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.28211805555555547
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.2559027777777777
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.28211805555555547
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.27_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.6666666666666666
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.6625
+Hybrid attack with intersection - Average after 10 snapshots is: 0.6166666666666667
+Hybrid attack without intersection - Average after 10 snapshot is: 0.6625
+Robust attack with intersection - Average after each 10 snapshots is: 0.8
+Robust attack without intersection - Average after each 10 snapshots is: 0.8
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.6583333333333333
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.625
+Hybrid attack with intersection - Average after 20 snapshots is: 0.6333333333333334
+Hybrid attack without intersection - Average after 20 snapshot is: 0.625
+Robust attack with intersection - Average after each 20 snapshots is: 0.9
+Robust attack without intersection - Average after each 20 snapshots is: 0.9
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.6583333333333333
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.625
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.6333333333333334
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.625
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.9
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:0.9
+Graph no.28_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.10729166666666665
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.11041666666666665
+Hybrid attack with intersection - Average after 10 snapshots is: 0.10729166666666665
+Hybrid attack without intersection - Average after 10 snapshot is: 0.11041666666666665
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.10234375
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.08020833333333331
+Hybrid attack with intersection - Average after 20 snapshots is: 0.10234375
+Hybrid attack without intersection - Average after 20 snapshot is: 0.08020833333333331
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.10234375
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.08020833333333331
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.10234375
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.08020833333333331
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.29_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.13055555555555556
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.1453703703703704
+Hybrid attack with intersection - Average after 10 snapshots is: 0.13416666666666666
+Hybrid attack without intersection - Average after 10 snapshot is: 0.1489814814814815
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.06527777777777778
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.0726851851851852
+Hybrid attack with intersection - Average after 20 snapshots is: 0.10874999999999999
+Hybrid attack without intersection - Average after 20 snapshot is: 0.09605324074074073
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.06527777777777778
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.0726851851851852
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.10874999999999999
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.09605324074074073
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.30_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.07395833333333332
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.065625
+Hybrid attack with intersection - Average after 10 snapshots is: 0.12187499999999998
+Hybrid attack without intersection - Average after 10 snapshot is: 0.09791666666666667
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.03697916666666666
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.0328125
+Hybrid attack with intersection - Average after 20 snapshots is: 0.08121527777777778
+Hybrid attack without intersection - Average after 20 snapshot is: 0.06777777777777777
+Robust attack with intersection - Average after each 20 snapshots is: 0.95
+Robust attack without intersection - Average after each 20 snapshots is: 0.95
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.03697916666666666
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.0328125
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.08121527777777778
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.06777777777777777
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.95
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:0.95
+Graph no.31_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.85
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.9
+Hybrid attack with intersection - Average after 10 snapshots is: 0.85
+Hybrid attack without intersection - Average after 10 snapshot is: 0.9
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.675
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.675
+Hybrid attack with intersection - Average after 20 snapshots is: 0.7549999999999999
+Hybrid attack without intersection - Average after 20 snapshot is: 0.7549999999999999
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.675
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.675
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.7549999999999999
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.7549999999999999
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.32_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.4766666666666667
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.5599999999999999
+Hybrid attack with intersection - Average after 10 snapshots is: 0.4766666666666667
+Hybrid attack without intersection - Average after 10 snapshot is: 0.5599999999999999
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.44333333333333336
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.5349999999999999
+Hybrid attack with intersection - Average after 20 snapshots is: 0.44333333333333336
+Hybrid attack without intersection - Average after 20 snapshot is: 0.5349999999999999
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.44333333333333336
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.5349999999999999
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.44333333333333336
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.5349999999999999
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.33_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.08333333333333333
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.08333333333333333
+Hybrid attack with intersection - Average after 10 snapshots is: 0.2583333333333333
+Hybrid attack without intersection - Average after 10 snapshot is: 0.2708333333333333
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.041666666666666664
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.041666666666666664
+Hybrid attack with intersection - Average after 20 snapshots is: 0.14687499999999995
+Hybrid attack without intersection - Average after 20 snapshot is: 0.15174999999999997
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.041666666666666664
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.041666666666666664
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.14687499999999995
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.15174999999999997
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.34_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.6
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.575
+Hybrid attack with intersection - Average after 10 snapshots is: 0.6
+Hybrid attack without intersection - Average after 10 snapshot is: 0.575
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.515625
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.4473958333333333
+Hybrid attack with intersection - Average after 20 snapshots is: 0.515625
+Hybrid attack without intersection - Average after 20 snapshot is: 0.4473958333333333
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.515625
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.4473958333333333
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.515625
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.4473958333333333
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.35_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.65
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.7
+Hybrid attack with intersection - Average after 10 snapshots is: 0.65
+Hybrid attack without intersection - Average after 10 snapshot is: 0.7
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.5125
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.54375
+Hybrid attack with intersection - Average after 20 snapshots is: 0.5125
+Hybrid attack without intersection - Average after 20 snapshot is: 0.54375
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.5125
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.54375
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.5125
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.54375
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.36_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.3
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.3
+Hybrid attack with intersection - Average after 10 snapshots is: 0.5666666666666667
+Hybrid attack without intersection - Average after 10 snapshot is: 0.6666666666666667
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.15
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.15
+Hybrid attack with intersection - Average after 20 snapshots is: 0.29027777777777775
+Hybrid attack without intersection - Average after 20 snapshot is: 0.33958333333333335
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.15
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.15
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.29027777777777775
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.33958333333333335
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.37_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.33000000000000007
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.37000000000000005
+Hybrid attack with intersection - Average after 10 snapshots is: 0.33000000000000007
+Hybrid attack without intersection - Average after 10 snapshot is: 0.37000000000000005
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.24119047619047632
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.24345238095238098
+Hybrid attack with intersection - Average after 20 snapshots is: 0.24119047619047632
+Hybrid attack without intersection - Average after 20 snapshot is: 0.24345238095238098
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.24119047619047632
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.24345238095238098
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.24119047619047632
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.24345238095238098
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.38_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.18633333333333335
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.21766666666666667
+Hybrid attack with intersection - Average after 10 snapshots is: 0.18633333333333335
+Hybrid attack without intersection - Average after 10 snapshot is: 0.21766666666666667
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.10083333333333336
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.1155
+Hybrid attack with intersection - Average after 20 snapshots is: 0.10083333333333336
+Hybrid attack without intersection - Average after 20 snapshot is: 0.1155
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.10083333333333336
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.1155
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.10083333333333336
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.1155
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.39_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.375
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.3166666666666667
+Hybrid attack with intersection - Average after 10 snapshots is: 0.375
+Hybrid attack without intersection - Average after 10 snapshot is: 0.3166666666666667
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.21024305555555559
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.18116319444444448
+Hybrid attack with intersection - Average after 20 snapshots is: 0.21024305555555559
+Hybrid attack without intersection - Average after 20 snapshot is: 0.18116319444444448
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.21024305555555559
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.18116319444444448
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.21024305555555559
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.18116319444444448
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0
+Graph no.40_Random victims + log N sybil's
+OriginalWalkedBased with intersection - Average after 10 snapshots is: 0.07777777777777777
+OriginalWalkedBased without intersection - Average after each 10 snapshot is: 0.08888888888888888
+Hybrid attack with intersection - Average after 10 snapshots is: 0.10081349206349206
+Hybrid attack without intersection - Average after 10 snapshot is: 0.10629960317460316
+Robust attack with intersection - Average after each 10 snapshots is: 1.0
+Robust attack without intersection - Average after each 10 snapshots is: 1.0
+OriginalWalkedBased with intersection - Average after 20 snapshots is: 0.03888888888888888
+OriginalWalkedBased without intersection - Average after each 20 snapshot is: 0.04444444444444444
+Hybrid attack with intersection - Average after 20 snapshots is: 0.0524751984126984
+Hybrid attack without intersection - Average after 20 snapshot is: 0.05553075396825395
+Robust attack with intersection - Average after each 20 snapshots is: 1.0
+Robust attack without intersection - Average after each 20 snapshots is: 1.0
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 20 snapshots:0.03888888888888888
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 20 snapshots:0.04444444444444444
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 20 snapshots:0.0524751984126984
+Average probability of Hybrid Attack after after adding random victims and log n sybils after20 snapshots:0.05553075396825395
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 20 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after20 snapshots:1.0

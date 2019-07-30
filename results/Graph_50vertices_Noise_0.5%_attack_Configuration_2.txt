@@ -1,0 +1,35 @@
+Graph no.1_Random number of victims + random number of sybil's
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 5 snapshots:0.6458333333333333
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 5 snapshots:0.6458333333333333
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 5 snapshots:0.6458333333333333
+Average probability of Hybrid Attack after after adding random victims and log n sybils after5 snapshots:0.6458333333333333
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 5 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after5 snapshots:1.0
+Graph no.2_Random number of victims + random number of sybil's
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 5 snapshots:0.7
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 5 snapshots:0.7
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 5 snapshots:0.7
+Average probability of Hybrid Attack after after adding random victims and log n sybils after5 snapshots:0.7
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 5 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after5 snapshots:1.0
+Graph no.3_Random number of victims + random number of sybil's
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 5 snapshots:0.4333333333333333
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 5 snapshots:0.4333333333333333
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 5 snapshots:0.4333333333333333
+Average probability of Hybrid Attack after after adding random victims and log n sybils after5 snapshots:0.4333333333333333
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 5 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after5 snapshots:1.0
+Graph no.4_Random number of victims + random number of sybil's
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 5 snapshots:0.6500000000000001
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 5 snapshots:0.6500000000000001
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 5 snapshots:0.6500000000000001
+Average probability of Hybrid Attack after after adding random victims and log n sybils after5 snapshots:0.6500000000000001
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 5 snapshots:1.0
+Average probability of Robust Attack after after adding random victims and log n sybils after5 snapshots:1.0
+Graph no.5_Random number of victims + random number of sybil's
+Average probability of Original Walk Based Attack using intersection and adding random victims and log n sybils after 5 snapshots:0.45999999999999996
+Average probability of Original Walk Based Attack after adding random victims and log n sybils after 5 snapshots:0.45999999999999996
+Average probability of Hybrid Attack after using intersection and adding random victims and log n sybils after 5 snapshots:0.45999999999999996
+Average probability of Hybrid Attack after after adding random victims and log n sybils after5 snapshots:0.45999999999999996
+Average probability of Robust Attack after using intersection and adding random victims and log n sybils after 5 snapshots:0.9
+Average probability of Robust Attack after after adding random victims and log n sybils after5 snapshots:0.9

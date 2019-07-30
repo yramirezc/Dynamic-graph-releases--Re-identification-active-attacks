@@ -1,0 +1,11 @@
+Averages for 50graphs_No_Evolve_Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.35
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.35
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.33333333333333337
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.33333333333333337
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise  snapshots:0.22238508806889748
+Average probability of Hybrid Attack after noise  snapshots:0.27137557348956176
+Average probability of Robust Attack after noise  snapshots:0.911
+===============================================================================================================

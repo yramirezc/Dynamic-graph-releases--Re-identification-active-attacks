@@ -1,0 +1,63 @@
+Graph no.1_Random number of victims + random number of sybil's
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 1 snapshot is : 1.0
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 2 snapshot is : 0.25
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 3 snapshot is : 0.5
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 4 snapshot is : 0.25
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 5 snapshot is : 0.16666666666666666
+Probability of original Walk Based Attack adding random victims and random sybils after 1 snapshot is : 1.0
+Probability of original Walk Based Attack adding random victims and random sybils after 2 snapshot is : 0.25
+Probability of original Walk Based Attack adding random victims and random sybils after 3 snapshot is : 0.5
+Probability of original Walk Based Attack adding random victims and random sybils after 4 snapshot is : 0.25
+Probability of original Walk Based Attack adding random victims and random sybils after 5 snapshot is : 0.16666666666666666
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 1 snapshot is : 1.0
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 2 snapshot is : 0.25
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 3 snapshot is : 0.5
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 4 snapshot is : 0.25
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 5 snapshot is : 0.16666666666666666
+Probability of Hybrid Attack after after adding random victims and random sybils after 1 snapshot is : 1.0
+Probability of Hybrid Attack after after adding random victims and random sybils after 2 snapshot is : 0.25
+Probability of Hybrid Attack after after adding random victims and random sybils after 3 snapshot is : 0.5
+Probability of Hybrid Attack after after adding random victims and random sybils after 4 snapshot is : 0.25
+Probability of Hybrid Attack after after adding random victims and random sybils after 5 snapshot is : 0.16666666666666666
+Probability of Robust Attack after using intersection and adding random victims and random sybils after 1 snapshot is : 1.0
+Probability of Robust Attack after using intersection and adding random victims and random sybils after 2 snapshot is : 1.0
+Probability of Robust Attack after using intersection and adding random victims and random sybils after 3 snapshot is : 1.0
+Probability of Robust Attack after using intersection and adding random victims and random sybils after 4 snapshot is : 1.0
+Probability of Robust Attack after using intersection and adding random victims and random sybils after 5 snapshot is : 1.0
+Probability of Robust Attack after after adding random victims and random sybils after 1 snapshot is : 1.0
+Probability of Robust Attack after after adding random victims and random sybils after 2 snapshot is : 1.0
+Probability of Robust Attack after after adding random victims and random sybils after 3 snapshot is : 1.0
+Probability of Robust Attack after after adding random victims and random sybils after 4 snapshot is : 1.0
+Probability of Robust Attack after after adding random victims and random sybils after 5 snapshot is : 1.0
+===============================================================================================================Graph no.2_Random number of victims + random number of sybil's
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 1 snapshot is : 0.5
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 2 snapshot is : 0.16666666666666666
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 3 snapshot is : 0.5
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 4 snapshot is : 0.16666666666666666
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 5 snapshot is : 0.16666666666666666
+Probability of original Walk Based Attack adding random victims and random sybils after 1 snapshot is : 0.5
+Probability of original Walk Based Attack adding random victims and random sybils after 2 snapshot is : 0.16666666666666666
+Probability of original Walk Based Attack adding random victims and random sybils after 3 snapshot is : 0.5
+Probability of original Walk Based Attack adding random victims and random sybils after 4 snapshot is : 0.16666666666666666
+Probability of original Walk Based Attack adding random victims and random sybils after 5 snapshot is : 0.16666666666666666
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 1 snapshot is : 0.5
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 2 snapshot is : 0.16666666666666666
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 3 snapshot is : 0.5
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 4 snapshot is : 0.16666666666666666
+Probability of original Walk Based Attack using intersection and adding random victims and random sybils after 5 snapshot is : 0.16666666666666666
+Probability of Hybrid Attack after after adding random victims and random sybils after 1 snapshot is : 0.5
+Probability of Hybrid Attack after after adding random victims and random sybils after 2 snapshot is : 0.16666666666666666
+Probability of Hybrid Attack after after adding random victims and random sybils after 3 snapshot is : 0.5
+Probability of Hybrid Attack after after adding random victims and random sybils after 4 snapshot is : 0.16666666666666666
+Probability of Hybrid Attack after after adding random victims and random sybils after 5 snapshot is : 0.16666666666666666
+Probability of Robust Attack after using intersection and adding random victims and random sybils after 1 snapshot is : 1.0
+Probability of Robust Attack after using intersection and adding random victims and random sybils after 2 snapshot is : 1.0
+Probability of Robust Attack after using intersection and adding random victims and random sybils after 3 snapshot is : 1.0
+Probability of Robust Attack after using intersection and adding random victims and random sybils after 4 snapshot is : 1.0
+Probability of Robust Attack after using intersection and adding random victims and random sybils after 5 snapshot is : 1.0
+Probability of Robust Attack after after adding random victims and random sybils after 1 snapshot is : 1.0
+Probability of Robust Attack after after adding random victims and random sybils after 2 snapshot is : 1.0
+Probability of Robust Attack after after adding random victims and random sybils after 3 snapshot is : 1.0
+Probability of Robust Attack after after adding random victims and random sybils after 4 snapshot is : 1.0
+Probability of Robust Attack after after adding random victims and random sybils after 5 snapshot is : 1.0
+===============================================================================================================

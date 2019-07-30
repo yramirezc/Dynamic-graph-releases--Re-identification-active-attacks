@@ -1,0 +1,321 @@
+Graph no.1_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.4833333333333333
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.4833333333333333
+Robust attack without evolve methods - Average after each 5 snapshot is: 0.9
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.29470238095238094
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.29470238095238094
+Robust attack without evolve methods - Average after each 10 snapshot is: 0.85
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.19646825396825396
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.22694444444444442
+Robust attack without evolve methods - Average after each 15 snapshot is: 0.8
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.14735119047619047
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.17939393939393938
+Robust attack without evolve methods - Average after each 20 snapshot is: 0.7166666666666667
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.14735119047619047
+Average probability of Hybrid Attack after noise 20 snapshots:0.17939393939393938
+Average probability of Robust Attack after noise 20 snapshots:0.7166666666666667
+===============================================================================================================Graph no.2_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.7
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.4666666666666667
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.35
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.35
+Average probability of Hybrid Attack after noise 20 snapshots:1.0
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.3_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.5
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.5
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.55
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.55
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.4
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.6666666666666666
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.3
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.75
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.3
+Average probability of Hybrid Attack after noise 20 snapshots:0.75
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.4_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.21666666666666665
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.21666666666666665
+Robust attack without evolve methods - Average after each 5 snapshot is: 0.8
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.20833333333333331
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.20833333333333331
+Robust attack without evolve methods - Average after each 10 snapshot is: 0.9
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.19222222222222224
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.19222222222222224
+Robust attack without evolve methods - Average after each 15 snapshot is: 0.9333333333333333
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.1879761904761905
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.1879761904761905
+Robust attack without evolve methods - Average after each 20 snapshot is: 0.95
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.1879761904761905
+Average probability of Hybrid Attack after noise 20 snapshots:0.1879761904761905
+Average probability of Robust Attack after noise 20 snapshots:0.95
+===============================================================================================================Graph no.5_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.9
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.9
+Robust attack without evolve methods - Average after each 5 snapshot is: 0.9
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.95
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.95
+Robust attack without evolve methods - Average after each 10 snapshot is: 0.95
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.9666666666666667
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.9666666666666667
+Robust attack without evolve methods - Average after each 15 snapshot is: 0.9666666666666667
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.975
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.975
+Robust attack without evolve methods - Average after each 20 snapshot is: 0.975
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.975
+Average probability of Hybrid Attack after noise 20 snapshots:0.975
+Average probability of Robust Attack after noise 20 snapshots:0.975
+===============================================================================================================Graph no.6_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.14444444444444446
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.14444444444444446
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.09333333333333335
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.09611111111111113
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.06222222222222224
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.0711851851851852
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.046666666666666676
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.057252525252525256
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.046666666666666676
+Average probability of Hybrid Attack after noise 20 snapshots:0.057252525252525256
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.7_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.7166666666666667
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.7166666666666667
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.42785714285714294
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.42785714285714294
+Robust attack without evolve methods - Average after each 10 snapshot is: 0.95
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.3275000000000002
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.3275000000000002
+Robust attack without evolve methods - Average after each 15 snapshot is: 0.9333333333333333
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.2661111111111112
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.2661111111111112
+Robust attack without evolve methods - Average after each 20 snapshot is: 0.875
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.2661111111111112
+Average probability of Hybrid Attack after noise 20 snapshots:0.2661111111111112
+Average probability of Robust Attack after noise 20 snapshots:0.875
+===============================================================================================================Graph no.8_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.8
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.4
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.26666666666666666
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.9333333333333333
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.2
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.7
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.2
+Average probability of Hybrid Attack after noise 20 snapshots:0.7
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.9_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.39999999999999997
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.4666666666666666
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.19999999999999998
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.4
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.13333333333333333
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.3412698412698413
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.09999999999999999
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.28988095238095246
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.09999999999999999
+Average probability of Hybrid Attack after noise 20 snapshots:0.28988095238095246
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.10_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.9
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.9
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.8
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.8
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.8333333333333334
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.8333333333333334
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.875
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.875
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.875
+Average probability of Hybrid Attack after noise 20 snapshots:0.875
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.11_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.25222222222222224
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.25222222222222224
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.17944444444444446
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.17944444444444446
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.15053872053872056
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.15053872053872056
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.11290404040404041
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.13353341103341104
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.11290404040404041
+Average probability of Hybrid Attack after noise 20 snapshots:0.13353341103341104
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.12_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.7
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.7
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.85
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.85
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.7666666666666667
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.9
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.575
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.925
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.575
+Average probability of Hybrid Attack after noise 20 snapshots:0.925
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.13_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.55
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.55
+Robust attack without evolve methods - Average after each 5 snapshot is: 0.7
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.675
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.675
+Robust attack without evolve methods - Average after each 10 snapshot is: 0.75
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.7833333333333333
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.7833333333333333
+Robust attack without evolve methods - Average after each 15 snapshot is: 0.8333333333333334
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.6875
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.6875
+Robust attack without evolve methods - Average after each 20 snapshot is: 0.75
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.6875
+Average probability of Hybrid Attack after noise 20 snapshots:0.6875
+Average probability of Robust Attack after noise 20 snapshots:0.75
+===============================================================================================================Graph no.14_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.7
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.7
+Robust attack without evolve methods - Average after each 5 snapshot is: 0.9
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.775
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.775
+Robust attack without evolve methods - Average after each 10 snapshot is: 0.9
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.7166666666666667
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.7166666666666667
+Robust attack without evolve methods - Average after each 15 snapshot is: 0.9333333333333333
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.5375
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.5375
+Robust attack without evolve methods - Average after each 20 snapshot is: 0.85
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.5375
+Average probability of Hybrid Attack after noise 20 snapshots:0.5375
+Average probability of Robust Attack after noise 20 snapshots:0.85
+===============================================================================================================Graph no.15_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.95
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.95
+Average probability of Hybrid Attack after noise 20 snapshots:1.0
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.16_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.95
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.95
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.95
+Average probability of Hybrid Attack after noise 20 snapshots:0.95
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.17_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.24166666666666664
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.24166666666666664
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.14321428571428574
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.14321428571428574
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.1176984126984127
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.1176984126984127
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.08827380952380953
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.10077380952380954
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.08827380952380953
+Average probability of Hybrid Attack after noise 20 snapshots:0.10077380952380954
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.18_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:1.0
+Average probability of Hybrid Attack after noise 20 snapshots:1.0
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.19_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 1.0
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.75
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 1.0
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.75
+Average probability of Hybrid Attack after noise 20 snapshots:1.0
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================Graph no.20_No Evolve Methods
+OriginalWalkedBased attack without evolve methods - Average after 5 snapshots is: 0.0
+Hybrid attack without evolve methods - Average after each  5 snapshot is: 0.14833333333333334
+Robust attack without evolve methods - Average after each 5 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 10 snapshots is: 0.0
+Hybrid attack without evolve methods - Average after each  10 snapshot is: 0.12416666666666669
+Robust attack without evolve methods - Average after each 10 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 15 snapshots is: 0.0
+Hybrid attack without evolve methods - Average after each  15 snapshot is: 0.10777777777777779
+Robust attack without evolve methods - Average after each 15 snapshot is: 1.0
+OriginalWalkedBased attack without evolve methods - Average after 20 snapshots is: 0.0
+Hybrid attack without evolve methods - Average after each  20 snapshot is: 0.10427083333333335
+Robust attack without evolve methods - Average after each 20 snapshot is: 1.0
+Average probability of Original Walk Based Attack after noise 20 snapshots:0.0
+Average probability of Hybrid Attack after noise 20 snapshots:0.10427083333333335
+Average probability of Robust Attack after noise 20 snapshots:1.0
+===============================================================================================================
